@@ -83,3 +83,44 @@
 [00:54:10] [Server thread/INFO]: Fran_Luxu[/127.42.56.30:35555] logged in with entity id 9061 at (-1549.8466826484753, -40.0, 4247.193442145194)
 [00:54:10] [Server thread/INFO]: Fran_Luxu joined the game
 [00:54:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=171, y=73, z=24} jh{x=169, y=74, z=24}
+[00:55:28] [Server thread/INFO]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[00:55:36] [Server thread/INFO]: [SolgaleoHD: Set own game mode to Survival Mode]
+[00:56:50] [Server thread/INFO]: Named entity cjo['Friggo camello Buffo Fardello'/157, l='ServerLevel[world]', x=1355.15, y=62.00, z=184.15] died: Friggo camello Buffo Fardello was slain by xito_xv1_
+[00:56:55] [Server thread/INFO]: Fran_Luxu lost connection: Timed out
+[00:56:55] [Server thread/INFO]: Fran_Luxu left the game
+[00:56:55] [Server thread/WARN]: handleDisconnection() called twice
+[00:57:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=188, y=53, z=-18} jh{x=185, y=57, z=-27}
+[00:57:18] [Server thread/INFO]: Fran_Luxu[/127.42.56.30:59681] logged in with entity id 11467 at (-1533.3432605862172, -45.0, 4252.298026469317)
+[00:57:18] [Server thread/INFO]: Fran_Luxu joined the game
+[00:57:36] [Server thread/INFO]: [Not Secure] <Fran_Luxu> soy el unico que tiene lag??
+[00:57:42] [Server thread/INFO]: [Not Secure] <SolgaleoHD> si xd
+[00:57:52] [Server thread/INFO]: [Not Secure] <Fran_Luxu> f
+[00:58:03] [Server thread/INFO]: Fran_Luxu lost connection: Timed out
+[00:58:03] [Server thread/INFO]: Fran_Luxu left the game
+[00:58:35] [Server thread/INFO]: Fran_Luxu[/127.42.56.30:56567] logged in with entity id 12246 at (-1533.3432605862172, -45.0, 4252.298026469317)
+[00:58:35] [Server thread/INFO]: Fran_Luxu joined the game
+[00:58:48] [Server thread/INFO]: [Not Secure] <Fran_Luxu> dios, odio mi internet
+[00:59:05] [Server thread/INFO]: Fran_Luxu lost connection: Timed out
+[00:59:05] [Server thread/INFO]: Fran_Luxu left the game
+[00:59:16] [Server thread/INFO]: [Not Secure] <xito_xv1_> R.I.P
+[00:59:21] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Bogged Spawn Egg] to SolgaleoHD]
+[00:59:27] [Server thread/INFO]: Fran_Luxu[/127.42.56.30:46211] logged in with entity id 13028 at (-1534.58921977406, -45.0, 4250.844340355491)
+[00:59:27] [Server thread/INFO]: Fran_Luxu joined the game
+[00:59:42] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Camel Spawn Egg] to SolgaleoHD]
+[00:59:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1351, y=63, z=178} jh{x=1350, y=63, z=178}
+[00:59:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1351, y=62, z=178} jh{x=1350, y=63, z=178}
+[00:59:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1352, y=62, z=178} jh{x=1350, y=63, z=178}
+[01:03:49] [Server thread/INFO]: SolgaleoHD has completed the challenge [Hot Tourist Destinations]
+[01:03:50] [Server thread/INFO]: SolgaleoHD has made the advancement [A Terrible Fortress]
+[01:04:02] [Server thread/INFO]: [Not Secure] <MXTXN123> T
+[01:04:42] [Server thread/WARN]: Friggo camello Buffo Fardello (vehicle of SolgaleoHD) moved wrongly! 0.2648601914930282
+[01:04:42] [Server thread/WARN]: Friggo camello Buffo Fardello (vehicle of SolgaleoHD) moved wrongly! 0.6586269765810471
+[01:09:51] [Server thread/INFO]: [SolgaleoHD: The difficulty has been set to Hard]
+[01:10:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=59, z=-40} jh{x=152, y=57, z=-41}
+[01:10:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=57, z=-41} jh{x=152, y=57, z=-41}
+[01:10:49] [Server thread/INFO]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[01:10:56] [Server thread/INFO]: [SolgaleoHD: Teleported SolgaleoHD to xito_xv1_]
+[01:11:03] [Server thread/INFO]: [SolgaleoHD: Set own game mode to Survival Mode]
+[01:12:13] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
+[01:12:13] [Server thread/INFO]: SolgaleoHD left the game
+[01:15:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=74, y=43, z=-9} jh{x=74, y=40, z=-9}
