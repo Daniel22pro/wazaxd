@@ -2485,12 +2485,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-04-19 22:43:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-19 22:38:59 +0000"
@@ -2500,6 +2494,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-19 22:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-04-19 22:43:18 +0000"
     },
     "done": true
   },
