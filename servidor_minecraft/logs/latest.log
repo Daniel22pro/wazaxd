@@ -75,3 +75,11 @@
 [00:42:32] [Server thread/INFO]: tomASlifsdvf left the game
 [00:43:00] [Server thread/INFO]: tomASlifsdvf[/127.222.100.87:33777] logged in with entity id 3298 at (-3596.699999988079, -47.0, 4115.699999988079)
 [00:43:00] [Server thread/INFO]: tomASlifsdvf joined the game
+[00:48:24] [Server thread/INFO]: Villager cpj['Librarian'/105, l='ServerLevel[world]', x=1394.01, y=58.00, z=162.03] died, message: 'Librarian was slain by xito_xv1_'
+[00:52:42] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[00:52:42] [Server thread/INFO]: xito_xv1_ left the game
+[00:53:53] [Server thread/INFO]: xito_xv1_[/127.22.168.44:54439] logged in with entity id 8998 at (1399.2268851309316, 63.0, 162.19816729798106)
+[00:53:53] [Server thread/INFO]: xito_xv1_ joined the game
+[00:54:10] [Server thread/INFO]: Fran_Luxu[/127.42.56.30:35555] logged in with entity id 9061 at (-1549.8466826484753, -40.0, 4247.193442145194)
+[00:54:10] [Server thread/INFO]: Fran_Luxu joined the game
+[00:54:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=171, y=73, z=24} jh{x=169, y=74, z=24}
