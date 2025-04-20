@@ -329,3 +329,13 @@ Reason: por veneko
 [02:27:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=20, z=-7} jh{x=151, y=20, z=-8}
 [02:27:57] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
 [02:27:57] [Server thread/INFO]: SolgaleoHD left the game
+[02:28:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=19, z=-8} jh{x=191, y=20, z=-9}
+[02:28:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=19, z=-8} jh{x=191, y=20, z=-9}
+[02:28:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=19, z=-8} jh{x=191, y=20, z=-9}
+[02:28:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=19, z=-8} jh{x=191, y=20, z=-9}
+[02:28:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=23, z=-13} jh{x=191, y=23, z=-12}
+[02:28:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=27, z=-16} jh{x=191, y=29, z=-18}
+[02:28:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=27, z=-16} jh{x=191, y=29, z=-18}
+[02:28:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=27, z=-16} jh{x=191, y=29, z=-18}
+[02:28:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=30, z=-20} jh{x=191, y=30, z=-19}
+[02:28:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=188, y=38, z=-24} jh{x=189, y=37, z=-24}
