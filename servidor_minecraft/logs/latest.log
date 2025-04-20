@@ -42,3 +42,6 @@
 [22:44:09] [Server thread/INFO]: Time elapsed: 12927 ms
 [22:44:09] [Server thread/INFO]: Done (13.500s)! For help, type "help"
 [22:45:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:58:45] [Server thread/INFO]: Fran_Luxu[/127.42.56.30:38097] logged in with entity id 1 at (-1778.4914901705524, 63.0, 4244.171837730072)
+[22:58:45] [Server thread/INFO]: Fran_Luxu joined the game
+[22:58:47] [Server thread/WARN]: UUID of added entity already exists: cmn['Enderman'/61, l='ServerLevel[world]', x=-1724.50, y=50.00, z=4170.50]
