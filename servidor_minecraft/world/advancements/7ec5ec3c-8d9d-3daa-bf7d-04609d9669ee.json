@@ -436,10 +436,12 @@
       "minecraft:magma_cube": "2025-04-17 02:15:39 +0000",
       "minecraft:spider": "2025-04-16 23:47:41 +0000",
       "minecraft:piglin_brute": "2025-04-18 03:44:13 +0000",
+      "minecraft:vex": "2025-04-20 01:44:01 +0000",
       "minecraft:zombie": "2025-04-17 00:32:01 +0000",
       "minecraft:creeper": "2025-04-17 01:10:07 +0000",
       "minecraft:drowned": "2025-04-17 19:16:01 +0000",
-      "minecraft:zombie_villager": "2025-04-19 18:49:46 +0000"
+      "minecraft:zombie_villager": "2025-04-19 18:49:46 +0000",
+      "minecraft:evoker": "2025-04-20 01:43:20 +0000"
     },
     "done": false
   },

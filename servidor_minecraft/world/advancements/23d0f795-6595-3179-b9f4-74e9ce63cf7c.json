@@ -870,22 +870,26 @@
       "minecraft:blaze": "2025-04-17 02:21:37 +0000",
       "minecraft:pillager": "2025-04-18 03:23:00 +0000",
       "minecraft:skeleton": "2025-04-17 00:24:14 +0000",
+      "minecraft:ravager": "2025-04-20 01:48:38 +0000",
+      "minecraft:ghast": "2025-04-17 21:25:24 +0000",
+      "minecraft:hoglin": "2025-04-18 00:15:08 +0000",
+      "minecraft:breeze": "2025-04-17 02:49:53 +0000",
+      "minecraft:vindicator": "2025-04-20 01:38:21 +0000",
+      "minecraft:magma_cube": "2025-04-17 02:15:41 +0000",
+      "minecraft:spider": "2025-04-17 00:55:55 +0000",
+      "minecraft:piglin_brute": "2025-04-18 03:45:51 +0000",
+      "minecraft:creeper": "2025-04-17 03:08:33 +0000",
+      "minecraft:evoker": "2025-04-20 01:45:41 +0000",
       "minecraft:zombified_piglin": "2025-04-19 00:23:41 +0000",
       "minecraft:witch": "2025-04-18 23:48:58 +0000",
       "minecraft:wither_skeleton": "2025-04-17 02:21:06 +0000",
       "minecraft:husk": "2025-04-17 01:33:28 +0000",
-      "minecraft:ghast": "2025-04-17 21:25:24 +0000",
-      "minecraft:hoglin": "2025-04-18 00:15:08 +0000",
       "minecraft:cave_spider": "2025-04-17 01:05:02 +0000",
       "minecraft:piglin": "2025-04-17 02:18:36 +0000",
-      "minecraft:breeze": "2025-04-17 02:49:53 +0000",
       "minecraft:enderman": "2025-04-17 02:18:08 +0000",
       "minecraft:silverfish": "2025-04-17 02:40:31 +0000",
-      "minecraft:magma_cube": "2025-04-17 02:15:41 +0000",
-      "minecraft:spider": "2025-04-17 00:55:55 +0000",
-      "minecraft:piglin_brute": "2025-04-18 03:45:51 +0000",
+      "minecraft:vex": "2025-04-20 01:43:52 +0000",
       "minecraft:zombie": "2025-04-17 00:34:43 +0000",
-      "minecraft:creeper": "2025-04-17 03:08:33 +0000",
       "minecraft:drowned": "2025-04-18 01:57:31 +0000",
       "minecraft:zombie_villager": "2025-04-19 23:49:42 +0000"
     },
@@ -3724,6 +3728,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-04-19 23:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-20 01:49:46 +0000"
     },
     "done": true
   },

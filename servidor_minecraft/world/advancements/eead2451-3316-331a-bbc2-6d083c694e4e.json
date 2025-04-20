@@ -848,14 +848,17 @@
       "minecraft:pillager": "2025-04-17 01:07:14 +0000",
       "minecraft:skeleton": "2025-04-16 23:52:58 +0000",
       "minecraft:phantom": "2025-04-17 01:12:44 +0000",
-      "minecraft:breeze": "2025-04-17 02:45:16 +0000",
-      "minecraft:silverfish": "2025-04-17 02:40:32 +0000",
       "minecraft:witch": "2025-04-16 23:53:54 +0000",
+      "minecraft:ravager": "2025-04-20 01:43:45 +0000",
+      "minecraft:husk": "2025-04-17 01:11:01 +0000",
+      "minecraft:breeze": "2025-04-17 02:45:16 +0000",
+      "minecraft:vindicator": "2025-04-20 01:45:59 +0000",
+      "minecraft:silverfish": "2025-04-17 02:40:32 +0000",
       "minecraft:spider": "2025-04-17 00:09:25 +0000",
       "minecraft:zombie": "2025-04-17 00:05:20 +0000",
       "minecraft:creeper": "2025-04-16 23:52:51 +0000",
       "minecraft:drowned": "2025-04-18 02:03:51 +0000",
-      "minecraft:husk": "2025-04-17 01:11:01 +0000"
+      "minecraft:evoker": "2025-04-20 01:50:32 +0000"
     },
     "done": false
   },
@@ -2791,6 +2794,24 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-04-19 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-20 01:45:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-20 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-20 01:51:18 +0000"
     },
     "done": true
   },
