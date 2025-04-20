@@ -133,3 +133,13 @@
 [01:25:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=127, y=40, z=50} jh{x=128, y=39, z=50}
 [01:25:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=127, y=40, z=50} jh{x=128, y=39, z=50}
 [01:26:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=128, y=30, z=45} jh{x=128, y=30, z=46}
+[01:28:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=126, y=27, z=52} jh{x=127, y=27, z=52}
+[01:30:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=163, y=72, z=42} jh{x=163, y=73, z=43}
+[01:30:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=165, y=74, z=37} jh{x=165, y=74, z=38}
+[01:30:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=166, y=75, z=37} jh{x=165, y=75, z=38}
+[01:33:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=172, y=75, z=36} jh{x=194, y=69, z=-27}
+[01:33:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=172, y=75, z=36} jh{x=194, y=69, z=-27}
+[01:33:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=172, y=75, z=36} jh{x=194, y=69, z=-27}
+[01:33:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=194, y=68, z=-28} jh{x=194, y=69, z=-27}
+[01:35:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=211, y=63, z=-51} jh{x=212, y=63, z=-50}
+[01:35:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=217, y=64, z=-58} jh{x=216, y=63, z=-55}
