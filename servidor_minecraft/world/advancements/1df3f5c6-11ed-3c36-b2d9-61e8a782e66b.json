@@ -2046,6 +2046,7 @@
   "minecraft:husbandry/whole_pack": {
     "criteria": {
       "minecraft:woods": "2025-04-18 22:07:27 +0000",
+      "minecraft:pale": "2025-04-20 23:02:03 +0000",
       "minecraft:ashen": "2025-04-19 23:15:13 +0000"
     },
     "done": false
@@ -2440,12 +2441,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-20 21:00:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-20 20:53:49 +0000"
@@ -2455,6 +2450,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-20 20:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-20 21:00:31 +0000"
     },
     "done": true
   },
