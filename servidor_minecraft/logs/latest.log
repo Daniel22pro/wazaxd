@@ -41,3 +41,11 @@
 [03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
 [03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
 [03:01:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=326, y=75, z=222} jh{x=326, y=74, z=223}
+[03:10:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=416, y=50, z=195} jh{x=416, y=48, z=194}
+[03:10:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=416, y=50, z=194} jh{x=416, y=48, z=194}
+[03:12:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=541, y=40, z=231} jh{x=541, y=39, z=233}
+[03:15:20] [Server thread/INFO]: [Not Secure] <MXTXN123> 293 60 676
+[03:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=402, y=70, z=286} jh{x=403, y=70, z=286}
+[03:16:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=404, y=69, z=286} jh{x=402, y=71, z=286}
+[03:16:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=404, y=69, z=286} jh{x=402, y=71, z=286}
+[03:16:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=404, y=69, z=286} jh{x=402, y=71, z=286}
