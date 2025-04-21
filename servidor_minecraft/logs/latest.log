@@ -51,3 +51,22 @@
 [01:35:10] [Server thread/INFO]: Fran_Luxu[/127.42.56.30:46917] logged in with entity id 1453 at (-1521.8040620736112, -36.0, 4312.583192932317)
 [01:35:10] [Server thread/INFO]: Fran_Luxu joined the game
 [01:36:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=276, y=54, z=-206} jh{x=284, y=53, z=-206}
+[01:38:24] [Server thread/INFO]: MXTXN123 lost connection: Timed out
+[01:38:24] [Server thread/INFO]: MXTXN123 left the game
+[01:38:24] [Server thread/WARN]: handleDisconnection() called twice
+[01:39:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:39:05] [Server thread/INFO]: s<--[HERE]
+[01:39:54] [Server thread/INFO]: MXTXN123[/127.15.228.119:34585] logged in with entity id 2731 at (283.3460143795726, 67.0, -176.92684184819106)
+[01:39:54] [Server thread/INFO]: MXTXN123 joined the game
+[01:40:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=272, y=73, z=-128} jh{x=272, y=73, z=-125}
+[01:41:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=272, y=81, z=-92} jh{x=272, y=81, z=-93}
+[01:41:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=272, y=82, z=-53} jh{x=272, y=82, z=-52}
+[01:41:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=272, y=82, z=-53} jh{x=272, y=82, z=-52}
+[01:42:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=238, y=64, z=39} jh{x=235, y=64, z=39}
+[01:42:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=238, y=64, z=39} jh{x=235, y=64, z=39}
+[01:42:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=238, y=64, z=39} jh{x=235, y=64, z=39}
+[01:42:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=238, y=64, z=39} jh{x=235, y=64, z=39}
+[01:42:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=238, y=64, z=39} jh{x=235, y=64, z=39}
+[01:42:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=238, y=64, z=39} jh{x=235, y=64, z=39}
+[01:43:51] [Server thread/INFO]: MXTXN123 lost connection: Disconnected
+[01:43:51] [Server thread/INFO]: MXTXN123 left the game
