@@ -1,51 +1,55 @@
-[02:48:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:48:11] [ServerMain/INFO]: Loaded 1337 recipes
-[02:48:11] [ServerMain/INFO]: Loaded 1448 advancements
-[02:48:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:48:12] [Server thread/INFO]: Loading properties
-[02:48:12] [Server thread/INFO]: Default game type: SURVIVAL
-[02:48:12] [Server thread/INFO]: Generating keypair
-[02:48:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:48:12] [Server thread/INFO]: Using epoll channel type
-[02:48:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:48:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:48:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:48:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:48:12] [Server thread/INFO]: Preparing level "world"
-[02:48:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:48:20] [Server thread/INFO]: Time elapsed: 7474 ms
-[02:48:20] [Server thread/INFO]: Done (7.892s)! For help, type "help"
-[02:48:59] [Server thread/INFO]: MXTXN123[/127.15.228.119:38217] logged in with entity id 1 at (134.55054961709487, 38.0, 42.515726783125004)
-[02:48:59] [Server thread/INFO]: MXTXN123 joined the game
-[03:00:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=283, y=62, z=178} jh{x=284, y=62, z=179}
-[03:00:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=286, y=61, z=179} jh{x=285, y=61, z=179}
-[03:01:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=285, y=72, z=199} jh{x=285, y=71, z=198}
-[03:01:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=70, z=214} jh{x=310, y=70, z=215}
-[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
-[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
-[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
-[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
-[03:01:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=326, y=75, z=222} jh{x=326, y=74, z=223}
-[03:10:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=416, y=50, z=195} jh{x=416, y=48, z=194}
-[03:10:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=416, y=50, z=194} jh{x=416, y=48, z=194}
-[03:12:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=541, y=40, z=231} jh{x=541, y=39, z=233}
-[03:15:20] [Server thread/INFO]: [Not Secure] <MXTXN123> 293 60 676
-[03:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=402, y=70, z=286} jh{x=403, y=70, z=286}
-[03:16:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=404, y=69, z=286} jh{x=402, y=71, z=286}
-[03:16:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=404, y=69, z=286} jh{x=402, y=71, z=286}
-[03:16:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=404, y=69, z=286} jh{x=402, y=71, z=286}
+[23:46:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:46:47] [ServerMain/INFO]: Loaded 1337 recipes
+[23:46:47] [ServerMain/INFO]: Loaded 1448 advancements
+[23:46:47] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:46:47] [Server thread/INFO]: Loading properties
+[23:46:47] [Server thread/INFO]: Default game type: SURVIVAL
+[23:46:47] [Server thread/INFO]: Generating keypair
+[23:46:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:46:48] [Server thread/INFO]: Using epoll channel type
+[23:46:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:46:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:46:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:46:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:46:48] [Server thread/INFO]: Preparing level "world"
+[23:46:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:46:55] [Server thread/INFO]: Time elapsed: 6934 ms
+[23:46:55] [Server thread/INFO]: Done (7.363s)! For help, type "help"
+[23:47:32] [Server thread/INFO]: MXTXN123[/127.97.140.110:37925] logged in with entity id 1 at (278.6535646440031, 56.0, 412.30186642219786)
+[23:47:32] [Server thread/INFO]: MXTXN123 joined the game
+[23:47:39] [Server thread/INFO]: Fran_Luxu[/127.11.187.68:51337] logged in with entity id 149 at (-1522.699999988079, -36.0, 4314.699999988079)
+[23:47:39] [Server thread/INFO]: Fran_Luxu joined the game
+[23:48:55] [Server thread/INFO]: xito_xv1_[/127.233.113.52:42515] logged in with entity id 544 at (1385.7270817519438, 66.5, 127.43854238272883)
+[23:48:55] [Server thread/INFO]: xito_xv1_ joined the game
+[23:49:00] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[23:49:00] [Server thread/INFO]: xito_xv1_ left the game
+[23:50:20] [Server thread/INFO]: xito_xv1_[/127.233.113.52:57647] logged in with entity id 1245 at (1385.7270817519438, 66.5, 127.43854238272883)
+[23:50:20] [Server thread/INFO]: xito_xv1_ joined the game
+[23:50:26] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[23:50:26] [Server thread/INFO]: xito_xv1_ left the game
+[23:51:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=396, y=49, z=90} jh{x=398, y=48, z=90}
+[23:51:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=396, y=49, z=90} jh{x=398, y=49, z=89}
+[23:51:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=404, y=54, z=86} jh{x=406, y=53, z=85}
+[23:51:28] [Server thread/INFO]: xito_xv1_[/127.233.113.52:38647] logged in with entity id 1866 at (1385.7270817519438, 66.5, 127.43854238272883)
+[23:51:28] [Server thread/INFO]: xito_xv1_ joined the game
+[23:53:14] [Server thread/INFO]: Mad_D0g_FL[/127.185.183.180:34483] logged in with entity id 3051 at (-103.6598486414209, 95.0, 306.53915559342863)
+[23:53:14] [Server thread/INFO]: Mad_D0g_FL joined the game
+[23:54:51] [Server thread/INFO]: s4antana[/127.193.137.243:52467] logged in with entity id 3882 at (-3589.3666305098536, -37.0, 4132.300000011921)
+[23:54:51] [Server thread/INFO]: s4antana joined the game
+[23:55:00] [Server thread/INFO]: [Not Secure] <Fran_Luxu> bueeena vixo
+[23:55:01] [Server thread/INFO]: [Not Secure] <Mad_D0g_FL> "no me carga el diwscord"
+[23:55:05] [Server thread/INFO]: [Not Secure] <Fran_Luxu> el sin internet
