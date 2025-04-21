@@ -3893,5 +3893,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:eye_armor_trim_smithing_template_smithing_trim": "2025-04-21 02:00:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
