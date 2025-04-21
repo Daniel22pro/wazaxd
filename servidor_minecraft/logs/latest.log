@@ -32,3 +32,12 @@
 [02:48:20] [Server thread/INFO]: Done (7.892s)! For help, type "help"
 [02:48:59] [Server thread/INFO]: MXTXN123[/127.15.228.119:38217] logged in with entity id 1 at (134.55054961709487, 38.0, 42.515726783125004)
 [02:48:59] [Server thread/INFO]: MXTXN123 joined the game
+[03:00:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=283, y=62, z=178} jh{x=284, y=62, z=179}
+[03:00:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=286, y=61, z=179} jh{x=285, y=61, z=179}
+[03:01:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=285, y=72, z=199} jh{x=285, y=71, z=198}
+[03:01:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=70, z=214} jh{x=310, y=70, z=215}
+[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
+[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
+[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
+[03:01:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=311, y=74, z=217} jh{x=312, y=74, z=217}
+[03:01:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=326, y=75, z=222} jh{x=326, y=74, z=223}
