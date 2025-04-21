@@ -80,3 +80,4 @@
 [02:14:32] [Server thread/INFO]: [Not Secure] <MXTXN123> si porfa
 [02:15:19] [Server thread/INFO]: [Not Secure] <MXTXN123> gracias
 [02:15:22] [Server thread/INFO]: [Not Secure] <Fran_Luxu> de nada
+[02:27:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=219, y=62, z=-4} jh{x=219, y=60, z=-4}
