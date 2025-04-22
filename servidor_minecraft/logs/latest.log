@@ -1,74 +1,48 @@
-[02:28:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:28:13] [ServerMain/INFO]: Loaded 1337 recipes
-[02:28:13] [ServerMain/INFO]: Loaded 1448 advancements
-[02:28:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:28:13] [Server thread/INFO]: Loading properties
-[02:28:13] [Server thread/INFO]: Default game type: SURVIVAL
-[02:28:13] [Server thread/INFO]: Generating keypair
-[02:28:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:28:14] [Server thread/INFO]: Using epoll channel type
-[02:28:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:28:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:28:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:28:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:28:14] [Server thread/INFO]: Preparing level "world"
-[02:28:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:28:25] [Server thread/INFO]: Time elapsed: 10165 ms
-[02:28:25] [Server thread/INFO]: Done (11.144s)! For help, type "help"
-[02:28:34] [Server thread/INFO]: yatorin[/127.202.184.70:48711] logged in with entity id 54 at (-2551.292064439213, 64.49520087700593, -4641.75995941705)
-[02:28:34] [Server thread/INFO]: yatorin joined the game
-[02:28:36] [Server thread/INFO]: SolgaleoHD[/127.135.219.92:37873] logged in with entity id 57 at (-12054.387477504622, 62.110764312744145, -25164.946936382974)
-[02:28:36] [Server thread/INFO]: SolgaleoHD joined the game
-[02:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10725ms or 214 ticks behind
-[02:30:00] [Server thread/INFO]: Fran_Luxu[/127.11.187.68:56033] logged in with entity id 1251 at (-1530.1382377922992, -51.0, 4326.5)
-[02:30:00] [Server thread/INFO]: Fran_Luxu joined the game
-[02:30:09] [Server thread/INFO]: xito_xv1_[/127.233.113.52:50673] logged in with entity id 1569 at (332.83434305445616, 128.0, 44.9090702994814)
-[02:30:09] [Server thread/INFO]: xito_xv1_ joined the game
-[02:30:15] [Server thread/WARN]: yatorin moved too quickly! 6.224500209204507,-2.9031272476744903,7.586584139778097
-[02:31:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2112, y=73, z=-4525} jh{x=-2112, y=71, z=-4525}
-[02:31:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2092, y=72, z=-4545} jh{x=-2093, y=70, z=-4544}
-[02:31:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2082, y=72, z=-4554} jh{x=-2082, y=70, z=-4554}
-[02:31:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2082, y=72, z=-4554} jh{x=-2082, y=70, z=-4554}
-[02:31:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2081, y=72, z=-4554} jh{x=-2082, y=70, z=-4554}
-[02:31:23] [Server thread/WARN]: xito_xv1_ moved wrongly!
-[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1960, y=73, z=-4615} jh{x=-1959, y=71, z=-4615}
-[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1959, y=73, z=-4616} jh{x=-1959, y=71, z=-4615}
-[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1959, y=73, z=-4616} jh{x=-1959, y=71, z=-4615}
-[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1958, y=73, z=-4617} jh{x=-1959, y=71, z=-4615}
-[02:32:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1893, y=72, z=-4604} jh{x=-1896, y=71, z=-4608}
-[02:32:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1893, y=72, z=-4604} jh{x=-1896, y=71, z=-4608}
-[02:32:26] [Server thread/WARN]: xito_xv1_ moved wrongly!
-[02:32:42] [Server thread/WARN]: xito_xv1_ moved wrongly!
-[02:34:01] [Server thread/INFO]: [SolgaleoHD: Teleported yatorin to SolgaleoHD]
-[02:34:47] [Server thread/INFO]: [Not Secure] <xito_xv1_> jugaran lolsito?
-[02:37:48] [Server thread/INFO]: [SolgaleoHD: Set own game mode to Creative Mode]
-[02:38:34] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
-[02:38:34] [Server thread/INFO]: xito_xv1_ left the game
-[02:39:21] [Server thread/INFO]: [Not Secure] <Fran_Luxu> pueden dormir?
-[02:39:27] [Server thread/INFO]: [Not Secure] <yatorin> shi
-[02:39:35] [Server thread/INFO]: [Not Secure] <Fran_Luxu> se agradece
-[02:39:52] [Server thread/INFO]: yatorin lost connection: Disconnected
-[02:39:52] [Server thread/INFO]: yatorin left the game
-[02:39:58] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
-[02:39:58] [Server thread/INFO]: SolgaleoHD left the game
+[22:40:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:40:31] [ServerMain/INFO]: Loaded 1337 recipes
+[22:40:31] [ServerMain/INFO]: Loaded 1448 advancements
+[22:40:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:40:32] [Server thread/INFO]: Loading properties
+[22:40:32] [Server thread/INFO]: Default game type: SURVIVAL
+[22:40:32] [Server thread/INFO]: Generating keypair
+[22:40:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:40:32] [Server thread/INFO]: Using epoll channel type
+[22:40:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:40:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:40:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:40:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:40:33] [Server thread/INFO]: Preparing level "world"
+[22:40:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:43] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[22:40:43] [Server thread/INFO]: Time elapsed: 9753 ms
+[22:40:43] [Server thread/INFO]: Done (10.404s)! For help, type "help"
+[22:41:01] [Server thread/INFO]: tomASlifsdvf[/127.222.100.87:40923] logged in with entity id 54 at (-3514.7112005919416, 62.48770867435668, 4122.273302560317)
+[22:41:01] [Server thread/INFO]: tomASlifsdvf joined the game
+[22:41:15] [Server thread/INFO]: s4antana[/127.201.129.239:41727] logged in with entity id 182 at (-1623.6868619771647, 98.0, 4277.265799397616)
+[22:41:15] [Server thread/INFO]: s4antana joined the game
+[22:41:41] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> oye manda cordenadas de la base del pancho
+[22:42:06] [Server thread/INFO]: [Not Secure] <s4antana> no hables por aca boludiño metet a dc
+[22:42:32] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> no puedo
+[22:48:46] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> de quien es el chulker que estaba en base del jorge
+[22:49:00] [Server thread/INFO]: [Not Secure] <s4antana> de el pero traelo pibe
+[22:49:06] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> yaya
+[22:49:16] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> manda cord al wasap
