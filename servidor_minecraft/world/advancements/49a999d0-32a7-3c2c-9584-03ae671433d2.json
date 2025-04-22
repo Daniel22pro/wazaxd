@@ -9,9 +9,12 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-04-16 22:47:11 +0000",
       "minecraft:beach": "2025-04-17 01:05:31 +0000",
+      "minecraft:dark_forest": "2025-04-22 02:12:31 +0000",
+      "minecraft:mushroom_fields": "2025-04-22 02:19:52 +0000",
       "minecraft:forest": "2025-04-17 00:07:46 +0000",
       "minecraft:mangrove_swamp": "2025-04-17 00:56:53 +0000",
       "minecraft:sparse_jungle": "2025-04-17 00:08:31 +0000",
+      "minecraft:deep_ocean": "2025-04-22 02:16:55 +0000",
       "minecraft:river": "2025-04-16 23:56:31 +0000",
       "minecraft:lukewarm_ocean": "2025-04-16 23:56:42 +0000",
       "minecraft:stony_shore": "2025-04-16 23:57:17 +0000",
@@ -19,11 +22,15 @@
       "minecraft:dripstone_caves": "2025-04-17 00:22:07 +0000",
       "minecraft:desert": "2025-04-17 01:08:15 +0000",
       "minecraft:jungle": "2025-04-17 00:58:09 +0000",
+      "minecraft:ocean": "2025-04-22 00:49:22 +0000",
+      "minecraft:sunflower_plains": "2025-04-22 00:48:05 +0000",
+      "minecraft:birch_forest": "2025-04-22 02:13:33 +0000",
       "minecraft:savanna": "2025-04-16 22:47:06 +0000",
       "minecraft:bamboo_jungle": "2025-04-17 01:03:40 +0000",
       "minecraft:wooded_badlands": "2025-04-18 22:57:28 +0000",
       "minecraft:plains": "2025-04-17 00:08:12 +0000",
-      "minecraft:warm_ocean": "2025-04-17 01:08:55 +0000"
+      "minecraft:warm_ocean": "2025-04-17 01:08:55 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-22 02:19:19 +0000"
     },
     "done": false
   },
@@ -500,10 +507,12 @@
       "minecraft:vindicator": "2025-04-19 23:55:34 +0000",
       "minecraft:enderman": "2025-04-17 00:53:22 +0000",
       "minecraft:silverfish": "2025-04-17 02:40:18 +0000",
+      "minecraft:magma_cube": "2025-04-22 02:05:10 +0000",
       "minecraft:spider": "2025-04-16 23:47:20 +0000",
       "minecraft:vex": "2025-04-20 01:44:49 +0000",
       "minecraft:zombie": "2025-04-16 23:47:03 +0000",
       "minecraft:creeper": "2025-04-16 23:47:39 +0000",
+      "minecraft:drowned": "2025-04-22 02:30:23 +0000",
       "minecraft:zombie_villager": "2025-04-17 22:28:43 +0000",
       "minecraft:slime": "2025-04-17 23:32:59 +0000"
     },
@@ -3360,6 +3369,132 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2025-04-20 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-22 00:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-22 00:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-22 02:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-22 02:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-22 02:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-22 02:12:24 +0000"
     },
     "done": true
   },

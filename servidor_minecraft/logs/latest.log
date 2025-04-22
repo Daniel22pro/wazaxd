@@ -1,113 +1,74 @@
-[00:02:19] [Server thread/INFO]: tomASlifsdvf[/127.222.100.87:41873] logged in with entity id 8894 at (-3555.3796321164564, -24.0, 4093.619359027795)
-[00:02:19] [Server thread/INFO]: tomASlifsdvf joined the game
-[00:02:47] [Server thread/INFO]: s4antana lost connection: Disconnected
-[00:02:47] [Server thread/INFO]: s4antana left the game
-[00:02:51] [Server thread/INFO]: Mad_D0g_FL lost connection: Disconnected
-[00:02:51] [Server thread/INFO]: Mad_D0g_FL left the game
-[00:02:56] [Server thread/INFO]: Mad_D0g_FL[/127.185.183.180:46585] logged in with entity id 9847 at (-3546.300000011921, -22.496848652806527, 4093.5813910682814)
-[00:02:56] [Server thread/INFO]: Mad_D0g_FL joined the game
-[00:03:06] [Server thread/INFO]: FAKAI[/127.128.25.53:55131] logged in with entity id 10111 at (-353.7429483670852, 81.0, -203.69133875288824)
-[00:03:06] [Server thread/INFO]: FAKAI joined the game
-[00:05:51] [Server thread/INFO]: Mad_D0g_FL lost connection: Disconnected
-[00:05:51] [Server thread/INFO]: Mad_D0g_FL left the game
-[00:06:08] [Server thread/INFO]: s4antana[/127.193.137.243:49393] logged in with entity id 13089 at (-3546.699999988079, 53.0, 4094.596070938872)
-[00:06:08] [Server thread/INFO]: s4antana joined the game
-[00:08:11] [Server thread/INFO]: tomASlifsdvf fell from a high place
-[00:13:34] [Server thread/INFO]: SolgaleoHD[/127.59.92.96:43607] logged in with entity id 18219 at (1375.099694482251, 64.0, 140.46148350289258)
-[00:13:34] [Server thread/INFO]: SolgaleoHD joined the game
-[00:13:37] [Server thread/INFO]: [Not Secure] <s4antana> thanks bro
-[00:13:37] [Server thread/INFO]: MXTXN123 lost connection: Disconnected
-[00:13:37] [Server thread/INFO]: MXTXN123 left the game
-[00:13:46] [Server thread/INFO]: [Not Secure] <s4antana> yato weko
-[00:14:37] [Server thread/INFO]: MXTXN123[/127.97.140.110:38179] logged in with entity id 18728 at (1524.022544137727, 68.0, -174.3067388164967)
-[00:14:37] [Server thread/INFO]: MXTXN123 joined the game
-[00:16:40] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
-[00:16:40] [Server thread/INFO]: SolgaleoHD left the game
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.4927191149938608,0.0,-10.388237131559436
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5117219064297842,0.0,-10.78778482682469
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5307258374039066,0.0,-11.187332524569683
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.549730793962226,0.0,-11.586880224546576
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.568736673546482,0.0,-11.986427926532087
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5877433838538764,0.0,-12.385975630325447
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.6067508418122998,0.0,-12.785523335745665
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.6257589726565129,0.0,-13.18507104263017
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.6447677090980051,0.0,-13.584618750832533
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.6637769905769346,0.0,-13.984166460221104
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.6827867625895578,0.0,-14.383714170677194
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.7017969760825054,0.0,-14.783261882093939
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.7208075869077675,0.0,-15.182809594375385
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.7398185553320218,0.0,-15.582357307434904
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.7588298455953009,0.0,-15.981905021194962
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.7778414255137704,0.0,-16.3814527355853
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.7968532661220706,0.0,-16.781000450542933
-[00:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4300ms or 86 ticks behind
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.47912440151708324,0.0,-10.070412493013464
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.48776650313698156,0.0,-10.252025631387369
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.4953067169969927,0.0,-10.41048310390238
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5018552318995262,0.0,-10.54810047769638
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5075112177637493,0.0,-10.666961763138488
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.512363927514798,0.0,-10.768942569510955
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5164936887831573,0.0,-10.855730945123241
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5199727964345584,0.0,-10.928846133413572
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5228663158459312,0.0,-10.989655453440037
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5252328058552393,0.0,-11.03938949232247
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5271249694153539,0.0,-11.079155778439372
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5285902391824493,0.0,-11.109951087305035
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5296713045461274,0.0,-11.132672516858293
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5304065859559159,0.0,-11.148127455222948
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5308306618153438,0.0,-11.15704255169112
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5309746526868366,0.0,-11.160071790608526
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5308665670759183,0.0,-11.157803757870397
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5305316126366506,0.0,-11.150768180768637
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5299924762575756,0.0,-11.139441813853182
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5292695761374944,0.0,-11.12425373620772
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5283812886546002,0.0,-11.105590118997497
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5275818299412549,0.0,-11.088792863953131
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5268623171182298,0.0,-11.073675334813743
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5262147555947649,0.0,-11.060069558948726
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5256319502391307,0.0,-11.047824360994582
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5251074254329069,0.0,-11.0368036831278
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! -0.5246353531197201,0.0,-11.026885073310495
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:24] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215866472090056,0.0,10.962829369268093
-[00:22:25] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5215746477654193,0.0,10.962577251541234
-[00:22:25] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5216718432297967,0.0,10.964619404533778
-[00:22:25] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 0.5217593191453034,0.0,10.9664573421785
-[00:23:02] [Server thread/WARN]: s4antana moved too quickly! 0.0,-10.333727941448885,0.0
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 6.857873591102816,0.0,-7.550496321402534
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 7.184898555175778,0.0,-7.756802283718116
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 7.50644505470359,0.0,-7.971783814482933
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 7.821683934866542,0.0,-8.195794722871597
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 8.130008181620951,0.0,-8.42893839102544
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 8.430931910276058,0.0,-8.671185975095796
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 8.72413888724327,0.0,-8.922364958973958
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 9.009373200074151,0.0,-9.182252967061686
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 9.286542827110907,0.0,-9.450524240811319
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 9.555658001027268,0.0,-9.72680206162795
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 9.816771612120874,0.0,-10.010699978466619
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 10.06997719821311,0.0,-10.301826044431436
-[00:25:23] [Server thread/WARN]: Jungle Boat (vehicle of MXTXN123) moved too quickly! 10.315461990458516,0.0,-10.599759520776843
-[00:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
-[00:25:47] [Server thread/INFO]: IsDracke[/127.123.151.21:60717] logged in with entity id 32214 at (-3555.890950322888, -24.0, 4091.110486442999)
-[00:25:47] [Server thread/INFO]: IsDracke joined the game
-[00:26:10] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> amaron te dejaron sin niuna wea
-[00:26:19] [Server thread/INFO]: [Not Secure] <IsDracke> putao
-[00:26:27] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> el amaro quedo sin nada
-[00:26:28] [Server thread/INFO]: [Not Secure] <IsDracke> mis 33 de obsidiana xD
-[00:26:59] [Server thread/INFO]: SolgaleoHD[/127.59.92.96:59657] logged in with entity id 33654 at (1396.5466403047965, 63.0, 187.69611744151874)
-[00:26:59] [Server thread/INFO]: SolgaleoHD joined the game
+[02:28:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:28:13] [ServerMain/INFO]: Loaded 1337 recipes
+[02:28:13] [ServerMain/INFO]: Loaded 1448 advancements
+[02:28:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:28:13] [Server thread/INFO]: Loading properties
+[02:28:13] [Server thread/INFO]: Default game type: SURVIVAL
+[02:28:13] [Server thread/INFO]: Generating keypair
+[02:28:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:28:14] [Server thread/INFO]: Using epoll channel type
+[02:28:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:28:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:28:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:28:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:28:14] [Server thread/INFO]: Preparing level "world"
+[02:28:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:25] [Server thread/INFO]: Time elapsed: 10165 ms
+[02:28:25] [Server thread/INFO]: Done (11.144s)! For help, type "help"
+[02:28:34] [Server thread/INFO]: yatorin[/127.202.184.70:48711] logged in with entity id 54 at (-2551.292064439213, 64.49520087700593, -4641.75995941705)
+[02:28:34] [Server thread/INFO]: yatorin joined the game
+[02:28:36] [Server thread/INFO]: SolgaleoHD[/127.135.219.92:37873] logged in with entity id 57 at (-12054.387477504622, 62.110764312744145, -25164.946936382974)
+[02:28:36] [Server thread/INFO]: SolgaleoHD joined the game
+[02:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10725ms or 214 ticks behind
+[02:30:00] [Server thread/INFO]: Fran_Luxu[/127.11.187.68:56033] logged in with entity id 1251 at (-1530.1382377922992, -51.0, 4326.5)
+[02:30:00] [Server thread/INFO]: Fran_Luxu joined the game
+[02:30:09] [Server thread/INFO]: xito_xv1_[/127.233.113.52:50673] logged in with entity id 1569 at (332.83434305445616, 128.0, 44.9090702994814)
+[02:30:09] [Server thread/INFO]: xito_xv1_ joined the game
+[02:30:15] [Server thread/WARN]: yatorin moved too quickly! 6.224500209204507,-2.9031272476744903,7.586584139778097
+[02:31:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2112, y=73, z=-4525} jh{x=-2112, y=71, z=-4525}
+[02:31:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2092, y=72, z=-4545} jh{x=-2093, y=70, z=-4544}
+[02:31:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2082, y=72, z=-4554} jh{x=-2082, y=70, z=-4554}
+[02:31:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2082, y=72, z=-4554} jh{x=-2082, y=70, z=-4554}
+[02:31:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2081, y=72, z=-4554} jh{x=-2082, y=70, z=-4554}
+[02:31:23] [Server thread/WARN]: xito_xv1_ moved wrongly!
+[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1960, y=73, z=-4615} jh{x=-1959, y=71, z=-4615}
+[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1959, y=73, z=-4616} jh{x=-1959, y=71, z=-4615}
+[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1959, y=73, z=-4616} jh{x=-1959, y=71, z=-4615}
+[02:31:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1958, y=73, z=-4617} jh{x=-1959, y=71, z=-4615}
+[02:32:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1893, y=72, z=-4604} jh{x=-1896, y=71, z=-4608}
+[02:32:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1893, y=72, z=-4604} jh{x=-1896, y=71, z=-4608}
+[02:32:26] [Server thread/WARN]: xito_xv1_ moved wrongly!
+[02:32:42] [Server thread/WARN]: xito_xv1_ moved wrongly!
+[02:34:01] [Server thread/INFO]: [SolgaleoHD: Teleported yatorin to SolgaleoHD]
+[02:34:47] [Server thread/INFO]: [Not Secure] <xito_xv1_> jugaran lolsito?
+[02:37:48] [Server thread/INFO]: [SolgaleoHD: Set own game mode to Creative Mode]
+[02:38:34] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[02:38:34] [Server thread/INFO]: xito_xv1_ left the game
+[02:39:21] [Server thread/INFO]: [Not Secure] <Fran_Luxu> pueden dormir?
+[02:39:27] [Server thread/INFO]: [Not Secure] <yatorin> shi
+[02:39:35] [Server thread/INFO]: [Not Secure] <Fran_Luxu> se agradece
+[02:39:52] [Server thread/INFO]: yatorin lost connection: Disconnected
+[02:39:52] [Server thread/INFO]: yatorin left the game
+[02:39:58] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
+[02:39:58] [Server thread/INFO]: SolgaleoHD left the game
