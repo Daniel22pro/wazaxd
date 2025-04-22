@@ -1,54 +1,50 @@
-[22:40:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:40:31] [ServerMain/INFO]: Loaded 1337 recipes
-[22:40:31] [ServerMain/INFO]: Loaded 1448 advancements
-[22:40:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[22:40:32] [Server thread/INFO]: Loading properties
-[22:40:32] [Server thread/INFO]: Default game type: SURVIVAL
-[22:40:32] [Server thread/INFO]: Generating keypair
-[22:40:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:40:32] [Server thread/INFO]: Using epoll channel type
-[22:40:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:40:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:40:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:40:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:40:33] [Server thread/INFO]: Preparing level "world"
-[22:40:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:40:43] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[22:40:43] [Server thread/INFO]: Time elapsed: 9753 ms
-[22:40:43] [Server thread/INFO]: Done (10.404s)! For help, type "help"
-[22:41:01] [Server thread/INFO]: tomASlifsdvf[/127.222.100.87:40923] logged in with entity id 54 at (-3514.7112005919416, 62.48770867435668, 4122.273302560317)
-[22:41:01] [Server thread/INFO]: tomASlifsdvf joined the game
-[22:41:15] [Server thread/INFO]: s4antana[/127.201.129.239:41727] logged in with entity id 182 at (-1623.6868619771647, 98.0, 4277.265799397616)
-[22:41:15] [Server thread/INFO]: s4antana joined the game
-[22:41:41] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> oye manda cordenadas de la base del pancho
-[22:42:06] [Server thread/INFO]: [Not Secure] <s4antana> no hables por aca boludiño metet a dc
-[22:42:32] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> no puedo
-[22:48:46] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> de quien es el chulker que estaba en base del jorge
-[22:49:00] [Server thread/INFO]: [Not Secure] <s4antana> de el pero traelo pibe
-[22:49:06] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> yaya
-[22:49:16] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> manda cord al wasap
-[22:50:03] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> ya
-[23:01:41] [Server thread/INFO]: [Not Secure] <s4antana> traete cuero
-[23:09:48] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> no te veo
-[23:10:27] [Server thread/INFO]: [Not Secure] <s4antana> rompe un bloque justo ahi
-[23:10:38] [Server thread/INFO]: [Not Secure] <tomASlifsdvf> ya lo hise
-[23:10:45] [Server thread/INFO]: [Not Secure] <s4antana> otro
+[23:27:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:27:40] [ServerMain/INFO]: Loaded 1337 recipes
+[23:27:40] [ServerMain/INFO]: Loaded 1448 advancements
+[23:27:40] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:27:40] [Server thread/INFO]: Loading properties
+[23:27:40] [Server thread/INFO]: Default game type: SURVIVAL
+[23:27:40] [Server thread/INFO]: Generating keypair
+[23:27:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:27:41] [Server thread/INFO]: Using epoll channel type
+[23:27:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:27:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:27:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:27:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:27:41] [Server thread/INFO]: Preparing level "world"
+[23:27:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:27:56] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[23:27:56] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[23:27:56] [Server thread/INFO]: Time elapsed: 14828 ms
+[23:27:56] [Server thread/INFO]: Done (15.590s)! For help, type "help"
+[23:28:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:31:53] [Server thread/INFO]: s4antana[/127.201.129.239:60313] logged in with entity id 54 at (-1522.6015943377454, 54.0, 4307.3870320429805)
+[23:31:53] [Server thread/INFO]: s4antana joined the game
