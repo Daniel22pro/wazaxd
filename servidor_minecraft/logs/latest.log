@@ -1,345 +1,46 @@
-[01:24:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:24:51] [ServerMain/INFO]: Loaded 1337 recipes
-[01:24:51] [ServerMain/INFO]: Loaded 1448 advancements
-[01:24:51] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:24:51] [Server thread/INFO]: Loading properties
-[01:24:51] [Server thread/INFO]: Default game type: SURVIVAL
-[01:24:51] [Server thread/INFO]: Generating keypair
-[01:24:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:24:51] [Server thread/INFO]: Using epoll channel type
-[01:24:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:24:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:24:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:24:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:24:51] [Server thread/INFO]: Preparing level "world"
-[01:24:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:24:55] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[01:24:55] [Server thread/INFO]: Time elapsed: 3825 ms
-[01:24:55] [Server thread/INFO]: Done (4.114s)! For help, type "help"
-[01:25:06] [Server thread/INFO]: SolgaleoHD[/127.59.92.96:41689] logged in with entity id 5 at (-12378.300000011921, 64.3481093513787, -26098.30000001192)
-[01:25:06] [Server thread/INFO]: SolgaleoHD joined the game
-[01:25:12] [Server thread/INFO]: [SolgaleoHD: Set own game mode to Survival Mode]
-[01:27:37] [Server thread/INFO]: yatorin[/127.202.184.70:55699] logged in with entity id 1139 at (-12405.170934984992, 64.0, -26074.135285446304)
-[01:27:37] [Server thread/INFO]: yatorin joined the game
-[01:28:18] [Server thread/INFO]: yatorin lost connection: Disconnected
-[01:28:18] [Server thread/INFO]: yatorin left the game
-[01:28:22] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
-[01:28:22] [Server thread/INFO]: SolgaleoHD left the game
-[01:28:34] [Server thread/INFO]: MXTXN123[/127.225.184.243:59497] logged in with entity id 1362 at (-3887.5547854864203, 69.25220334025373, 3459.5453856012673)
-[01:28:34] [Server thread/INFO]: MXTXN123 joined the game
-[01:30:01] [Server thread/INFO]: Villager cpj['Villager'/2215, l='ServerLevel[world]', x=-501.50, y=43.00, z=418.48] died, message: 'Villager was burned to a crisp while fighting MXTXN123'
-[01:33:10] [Server thread/INFO]: javaralol[/127.93.195.161:42725] logged in with entity id 4007 at (-1820.4587670471522, 107.0, -102.23515559849774)
-[01:33:10] [Server thread/INFO]: javaralol joined the game
-[01:33:15] [Server thread/INFO]: [Not Secure] <MXTXN123> t
-[01:33:28] [Server thread/INFO]: [Not Secure] <javaralol> oli
-[01:33:35] [Server thread/INFO]: [Not Secure] <MXTXN123> oli
-[01:33:52] [Server thread/INFO]: [Not Secure] <javaralol> como estas bro
-[01:34:08] [Server thread/INFO]: [Not Secure] <MXTXN123> bien bro aburrido y tu
-[01:34:15] [Server thread/INFO]: [Not Secure] <javaralol> x2
-[01:34:49] [Server thread/INFO]: javaralol was slain by Zombie
-[01:35:12] [Server thread/INFO]: [Not Secure] <javaralol> me voy a matar
-[01:35:22] [Server thread/INFO]: [Not Secure] <MXTXN123> xd
-[01:37:50] [Server thread/INFO]: SolgaleoHD[/127.59.92.96:44907] logged in with entity id 6599 at (-12395.725653681917, 68.0, -26069.59375333568)
-[01:37:50] [Server thread/INFO]: SolgaleoHD joined the game
-[01:38:10] [Server thread/INFO]: [SolgaleoHD: Teleported javaralol to SolgaleoHD]
-[01:38:21] [Server thread/INFO]: [Not Secure] <SolgaleoHD> ola
-[01:38:26] [Server thread/INFO]: [Not Secure] <javaralol> ola
-[01:38:31] [Server thread/INFO]: [Not Secure] <javaralol> gracias
-[01:38:46] [Server thread/INFO]: [Not Secure] <javaralol> ignora mi skin no se porq la tengo
-[01:38:49] [Server thread/INFO]: [Not Secure] <SolgaleoHD> de nada, pone spawn pa q si te mori no tengai q regresar
-[01:39:00] [Server thread/INFO]: [Not Secure] <javaralol> q es eso
-[01:39:12] [Server thread/INFO]: SolgaleoHD lost connection: You logged in from another location
-[01:39:12] [Server thread/INFO]: SolgaleoHD left the game
-[01:39:12] [Server thread/WARN]: handleDisconnection() called twice
-[01:39:13] [Server thread/INFO]: SolgaleoHD[/127.59.92.96:39777] logged in with entity id 7349 at (-12396.663379051011, 63.0, -26073.150731918213)
-[01:39:13] [Server thread/INFO]: SolgaleoHD joined the game
-[01:39:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-564, y=72, z=396} jh{x=-565, y=71, z=396}
-[01:39:40] [Server thread/INFO]: [Not Secure] <SolgaleoHD> duerme en una cama, asi reapareces ahi
-[01:39:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-565, y=68, z=401} jh{x=-565, y=66, z=402}
-[01:39:56] [Server thread/INFO]: [Not Secure] <SolgaleoHD> eso mismo
-[01:40:00] [Server thread/INFO]: [Not Secure] <javaralol> ya
-[01:40:15] [Server thread/INFO]: [Not Secure] <javaralol> la puedo sacar o la dejo ahi nomas?
-[01:40:29] [Server thread/INFO]: [Not Secure] <SolgaleoHD> dejala ahi, si la sacas vuelvele a hacer clic derecho
-[01:40:34] [Server thread/INFO]: [Not Secure] <javaralol> ya
-[01:40:37] [Server thread/INFO]: [Not Secure] <javaralol> gracias
-[01:40:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-581, y=30, z=401} jh{x=-581, y=28, z=400}
-[01:40:59] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
-[01:40:59] [Server thread/INFO]: SolgaleoHD left the game
-[01:41:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-583, y=16, z=367} jh{x=-583, y=15, z=368}
-[01:41:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-583, y=16, z=367} jh{x=-583, y=15, z=368}
-[01:41:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-583, y=17, z=367} jh{x=-582, y=17, z=367}
-[01:41:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-583, y=17, z=367} jh{x=-582, y=17, z=367}
-[01:41:52] [Server thread/INFO]: javaralol was slain by Spider
-[01:42:46] [Server thread/INFO]: [Not Secure] <javaralol> martin
-[01:42:54] [Server thread/INFO]: [Not Secure] <javaralol> tienes cama?
-[01:43:15] [Server thread/INFO]: [Not Secure] <MXTXN123> estoy en el nether durme nomas
-[01:43:19] [Server thread/INFO]: MXTXN123 lost connection: Disconnected
-[01:43:19] [Server thread/INFO]: MXTXN123 left the game
-[01:43:39] [Server thread/INFO]: MXTXN123[/127.225.184.243:60365] logged in with entity id 9901 at (-592.4838319306408, 18.0, 325.47221368178236)
-[01:43:39] [Server thread/INFO]: MXTXN123 joined the game
-[01:44:12] [Server thread/INFO]: You whisper to MXTXN123: ñatuito wekini bombombinitell MXTXN123 /ban ñatuo
-[01:44:30] [Server thread/INFO]: [Not Secure] <MXTXN123> que ?
-[01:44:45] [Server thread/INFO]: No player was found
-[01:45:04] [Server thread/INFO]: No player was found
-[01:45:35] [Server thread/INFO]: [Not Secure] <javaralol> ?
-[01:45:45] [Server thread/INFO]: [Not Secure] <MXTXN123> no nada javi
-[01:45:57] [Server thread/INFO]: No player was found
-[01:46:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-612, y=17, z=257} jh{x=-611, y=17, z=257}
-[01:46:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-611, y=17, z=257} jh{x=-610, y=17, z=257}
-[01:46:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-611, y=17, z=257} jh{x=-610, y=17, z=257}
-[01:46:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-611, y=17, z=257} jh{x=-610, y=17, z=257}
-[01:46:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-611, y=17, z=257} jh{x=-610, y=17, z=257}
-[01:46:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-611, y=17, z=257} jh{x=-610, y=17, z=257}
-[01:46:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-617, y=19, z=257} jh{x=-616, y=19, z=257}
-[01:46:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-616, y=19, z=257} jh{x=-615, y=19, z=257}
-[01:46:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-616, y=19, z=257} jh{x=-615, y=19, z=257}
-[01:46:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-616, y=19, z=257} jh{x=-615, y=19, z=257}
-[01:46:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-616, y=19, z=257} jh{x=-615, y=19, z=257}
-[01:46:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-616, y=19, z=257} jh{x=-615, y=19, z=257}
-[01:46:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-620, y=20, z=257} jh{x=-619, y=20, z=257}
-[01:46:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-619, y=20, z=257} jh{x=-618, y=20, z=257}
-[01:46:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-619, y=20, z=257} jh{x=-618, y=20, z=257}
-[01:46:50] [Server thread/INFO]: You whisper to MXTXN123: /clear ñata
-[01:47:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-623, y=16, z=285} jh{x=-627, y=19, z=279}
-[01:47:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-623, y=16, z=285} jh{x=-627, y=19, z=279}
-[01:47:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-636, y=25, z=274} jh{x=-636, y=25, z=273}
-[01:47:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-636, y=25, z=274} jh{x=-636, y=25, z=273}
-[01:47:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-636, y=25, z=274} jh{x=-636, y=25, z=273}
-[01:47:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-636, y=25, z=274} jh{x=-636, y=25, z=273}
-[01:47:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-636, y=25, z=274} jh{x=-636, y=25, z=273}
-[01:47:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-636, y=25, z=274} jh{x=-636, y=25, z=273}
-[01:47:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-638, y=26, z=273} jh{x=-639, y=26, z=273}
-[01:47:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-649, y=30, z=269} jh{x=-649, y=30, z=270}
-[01:47:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-652, y=31, z=267} jh{x=-653, y=31, z=267}
-[01:47:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-659, y=35, z=262} jh{x=-658, y=35, z=262}
-[01:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-659, y=38, z=262} jh{x=-659, y=38, z=261}
-[01:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-659, y=38, z=262} jh{x=-659, y=38, z=261}
-[01:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-659, y=38, z=262} jh{x=-659, y=38, z=261}
-[01:47:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-659, y=38, z=262} jh{x=-659, y=38, z=261}
-[01:47:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-665, y=41, z=255} jh{x=-665, y=41, z=256}
-[01:47:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-664, y=41, z=257} jh{x=-663, y=41, z=257}
-[01:47:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-666, y=40, z=255} jh{x=-665, y=41, z=256}
-[01:47:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-666, y=40, z=255} jh{x=-665, y=41, z=256}
-[01:47:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-666, y=40, z=255} jh{x=-665, y=41, z=256}
-[01:47:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-666, y=40, z=255} jh{x=-665, y=41, z=256}
-[01:48:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-663, y=42, z=257} jh{x=-665, y=43, z=256}
-[01:48:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-663, y=42, z=257} jh{x=-665, y=43, z=256}
-[01:48:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-663, y=42, z=257} jh{x=-665, y=43, z=256}
-[01:48:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-663, y=42, z=257} jh{x=-665, y=43, z=256}
-[01:48:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-668, y=46, z=252} jh{x=-667, y=45, z=253}
-[01:48:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-668, y=46, z=252} jh{x=-669, y=46, z=250}
-[01:48:32] [Server thread/INFO]: You whisper to MXTXN123: martin soy tu ñata
-[01:49:05] [Server thread/INFO]: [Not Secure] <MXTXN123> tay como aburrido dani ssjsjsjsjsj
-[01:49:26] [Server thread/INFO]: Incorrect argument for command
-[01:49:26] [Server thread/INFO]: effect stell MXTXN123 aburrio de no ver tu ñata :(<--[HERE]
-[01:49:49] [Server thread/INFO]: s4antana[/127.201.129.239:59249] logged in with entity id 12754 at (-1521.489499684382, -49.0, 4324.3820759128885)
-[01:49:49] [Server thread/INFO]: s4antana joined the game
-[01:54:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-535, y=66, z=-8} jh{x=-534, y=68, z=65}
-[01:54:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-535, y=66, z=-8} jh{x=-534, y=68, z=65}
-[01:54:50] [Server thread/INFO]: [Not Secure] <javaralol> PUEDEs dormir
-[01:54:54] [Server thread/INFO]: [Not Secure] <javaralol> ?
-[01:55:01] [Server thread/INFO]: [Not Secure] <s4antana> tkisto wey
-[01:55:03] [Server thread/INFO]: [Not Secure] <MXTXN123> javi duerme nomas
-[01:58:25] [Server thread/INFO]: Fran_Luxu[/127.212.175.87:52377] logged in with entity id 17810 at (-2430.699999988079, 120.0, 3629.699999988079)
-[01:58:25] [Server thread/INFO]: Fran_Luxu joined the game
-[01:58:33] [Server thread/INFO]: [Not Secure] <Fran_Luxu> wenas gays
-[01:58:41] [Server thread/INFO]: [Not Secure] <javaralol> ola
-[01:59:00] [Server thread/INFO]: [Not Secure] <Fran_Luxu> oh chucha perdon
-[02:00:22] [Server thread/INFO]: [Not Secure] <Fran_Luxu> vixo
-[02:00:27] [Server thread/INFO]: [Not Secure] <Fran_Luxu> discord
-[02:00:44] [Server thread/INFO]: [Not Secure] <s4antana> estuve metido 15 minutos won y no te metiai
-[02:00:57] [Server thread/INFO]: [Not Secure] <s4antana> weco
-[02:01:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=139, y=75, z=6} jh{x=143, y=72, z=-1}
-[02:03:26] [Server thread/INFO]: javaralol drowned
-[02:03:39] [Server thread/INFO]: [Not Secure] <s4antana> watafak
-[02:05:39] [Server thread/INFO]: javaralol tried to swim in lava
-[02:07:19] [Server thread/WARN]: s4antana moved too quickly! 8.85910503339187,0.796735600668697,-4.936561775564996
-[02:07:28] [Server thread/INFO]: MXTXN123 lost connection: Disconnected
-[02:07:28] [Server thread/INFO]: MXTXN123 left the game
-[02:07:33] [Server thread/INFO]: MXTXN123[/127.225.184.243:53191] logged in with entity id 28566 at (1389.13366122615, 63.0, 143.65929707781098)
-[02:07:33] [Server thread/INFO]: MXTXN123 joined the game
-[02:08:20] [Server thread/INFO]: javaralol was slain by Zombie
-[02:11:22] [Server thread/INFO]: javaralol tried to swim in lava
-[02:11:47] [Server thread/INFO]: javaralol was doomed to fall
-[02:11:53] [Server thread/INFO]: [Not Secure] <s4antana> javi que wea
-[02:12:04] [Server thread/INFO]: [Not Secure] <javaralol> no me gusta la noche
-[02:12:10] [Server thread/INFO]: [Not Secure] <s4antana> JAJSJSJSJ
-[02:12:16] [Server thread/INFO]: [Not Secure] <MXTXN123> no si ya me di cuenta
-[02:12:20] [Server thread/INFO]: javaralol was slain by Enderman
-[02:12:29] [Server thread/INFO]: [Not Secure] <MXTXN123> pero javi
-[02:14:39] [Server thread/INFO]: javaralol was slain by Zombie
-[02:16:11] [Server thread/INFO]: MXTXN123 lost connection: Disconnected
-[02:16:11] [Server thread/INFO]: MXTXN123 left the game
-[02:16:33] [Server thread/INFO]: javaralol lost connection: Disconnected
-[02:16:33] [Server thread/INFO]: javaralol left the game
-[02:24:20] [Server thread/INFO]: kito2302[/127.123.36.224:48675] logged in with entity id 37465 at (-4050.699999988079, -41.0, 3594.2004772575224)
-[02:24:20] [Server thread/INFO]: kito2302 joined the game
-[02:25:06] [Server thread/INFO]: You whisper to kito2302: خورخي أنا فتحة الشرج الخاصة بك
-[02:27:17] [Server thread/INFO]: You whisper to kito2302: نيغا نيجا نيجا?
-[02:28:58] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:28:58] [Server thread/INFO]: kito2302 left the game
-[02:29:06] [Server thread/INFO]: kito2302[/127.123.36.224:54531] logged in with entity id 39019 at (-3989.7715279184, -20.93643063133288, 3546.699999988079)
-[02:29:06] [Server thread/INFO]: kito2302 joined the game
-[02:29:10] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:29:10] [Server thread/INFO]: kito2302 left the game
-[02:29:15] [Server thread/INFO]: kito2302[/127.123.36.224:51851] logged in with entity id 39308 at (-3989.762965356533, -23.42068301018578, 3547.4790835266463)
-[02:29:15] [Server thread/INFO]: kito2302 joined the game
-[02:29:19] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:29:19] [Server thread/INFO]: kito2302 left the game
-[02:29:19] [Server thread/INFO]: [Not Secure] <Fran_Luxu> tu puedes jorge
-[02:29:22] [Server thread/INFO]: kito2302[/127.123.36.224:35485] logged in with entity id 39597 at (-3989.762965356533, -30.481102735468376, 3547.4790835266463)
-[02:29:22] [Server thread/INFO]: kito2302 joined the game
-[02:29:26] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:29:26] [Server thread/INFO]: kito2302 left the game
-[02:29:29] [Server thread/INFO]: kito2302[/127.123.36.224:35261] logged in with entity id 39900 at (-3989.762965356533, -31.0, 3547.4790835266463)
-[02:29:29] [Server thread/INFO]: kito2302 joined the game
-[02:29:32] [Server thread/INFO]: [Not Secure] <Fran_Luxu> el que se muere es gay
-[02:29:36] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:29:36] [Server thread/INFO]: kito2302 left the game
-[02:29:41] [Server thread/INFO]: kito2302[/127.123.36.224:43225] logged in with entity id 40192 at (-3989.920918693793, -28.06083603053912, 3545.366947875108)
-[02:29:41] [Server thread/INFO]: kito2302 joined the game
-[02:29:45] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:29:45] [Server thread/INFO]: kito2302 left the game
-[02:29:48] [Server thread/INFO]: kito2302[/127.123.36.224:52949] logged in with entity id 40471 at (-3989.133109094116, -27.51560990997194, 3544.55466861934)
-[02:29:48] [Server thread/INFO]: kito2302 joined the game
-[02:29:49] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:29:49] [Server thread/INFO]: kito2302 left the game
-[02:29:54] [Server thread/INFO]: kito2302[/127.123.36.224:58141] logged in with entity id 40759 at (-3988.726566979702, -27.515156268998982, 3544.300000011921)
-[02:29:54] [Server thread/INFO]: kito2302 joined the game
-[02:29:55] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:29:55] [Server thread/INFO]: kito2302 left the game
-[02:29:58] [Server thread/INFO]: kito2302[/127.123.36.224:52491] logged in with entity id 41050 at (-3988.4755655133613, -27.755312512740495, 3544.300000011921)
-[02:29:58] [Server thread/INFO]: kito2302 joined the game
-[02:30:02] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:02] [Server thread/INFO]: kito2302 left the game
-[02:30:05] [Server thread/INFO]: kito2302[/127.123.36.224:56247] logged in with entity id 41340 at (-3987.5754907129412, -26.517257854744795, 3543.6226148198934)
-[02:30:05] [Server thread/INFO]: kito2302 joined the game
-[02:30:11] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:11] [Server thread/INFO]: kito2302 left the game
-[02:30:13] [Server thread/INFO]: kito2302[/127.123.36.224:50033] logged in with entity id 41632 at (-3987.466008820021, -25.59278544042199, 3543.474432185244)
-[02:30:13] [Server thread/INFO]: kito2302 joined the game
-[02:30:17] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:17] [Server thread/INFO]: kito2302 left the game
-[02:30:20] [Server thread/INFO]: kito2302[/127.123.36.224:45493] logged in with entity id 41931 at (-3985.942279070934, -24.5150248693672, 3544.530875625568)
-[02:30:20] [Server thread/INFO]: kito2302 joined the game
-[02:30:24] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:24] [Server thread/INFO]: kito2302 left the game
-[02:30:26] [Server thread/INFO]: kito2302[/127.123.36.224:49279] logged in with entity id 42234 at (-3985.5985232096846, -27.672040401192618, 3545.220654845137)
-[02:30:26] [Server thread/INFO]: kito2302 joined the game
-[02:30:30] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:30] [Server thread/INFO]: kito2302 left the game
-[02:30:33] [Server thread/INFO]: kito2302[/127.123.36.224:50271] logged in with entity id 42523 at (-3985.362712697563, -27.745691951002073, 3545.709718301482)
-[02:30:33] [Server thread/INFO]: kito2302 joined the game
-[02:30:35] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:35] [Server thread/INFO]: kito2302 left the game
-[02:30:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@7fc69be4[id=96ad3083-0fa0-3673-9610-dd277ab5a5e1,name=kito2302,properties={}] lost connection: Disconnected
-[02:30:38] [Server thread/INFO]: kito2302 (/127.123.36.224:47329) lost connection: Disconnected
-[02:30:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@11b25277[id=96ad3083-0fa0-3673-9610-dd277ab5a5e1,name=kito2302,properties={}] lost connection: Disconnected
-[02:30:43] [Server thread/INFO]: kito2302[/127.123.36.224:44969] logged in with entity id 42876 at (-3985.2999058174114, -28.676152937085188, 3545.84745935797)
-[02:30:43] [Server thread/INFO]: kito2302 joined the game
-[02:30:45] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:45] [Server thread/INFO]: kito2302 left the game
-[02:30:47] [Server thread/INFO]: [Not Secure] <Fran_Luxu> MARICON
-[02:30:50] [Server thread/INFO]: kito2302[/127.123.36.224:53651] logged in with entity id 43210 at (-3985.2999058174114, -29.0, 3545.84745935797)
-[02:30:50] [Server thread/INFO]: kito2302 joined the game
-[02:30:52] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:30:52] [Server thread/INFO]: kito2302 left the game
-[02:30:59] [Server thread/INFO]: kito2302[/127.123.36.224:58083] logged in with entity id 43490 at (-3985.2999058174114, -29.0, 3545.84745935797)
-[02:30:59] [Server thread/INFO]: kito2302 joined the game
-[02:31:00] [Server thread/INFO]: [Not Secure] <s4antana> SI YO ESTABA FARMEANDO WEON
-[02:31:04] [Server thread/INFO]: kito2302 tried to swim in lava
-[02:31:04] [Server thread/INFO]: kito2302 lost connection: Disconnected
-[02:31:04] [Server thread/INFO]: kito2302 left the game
-[02:31:06] [Server thread/INFO]: [Not Secure] <s4antana> por eso taba afk
-[02:31:07] [Server thread/INFO]: kito2302[/127.123.36.224:36551] logged in with entity id 43805 at (-3984.330059749459, -28.0, 3547.893606960169)
-[02:31:07] [Server thread/INFO]: kito2302 joined the game
-[02:31:10] [Server thread/INFO]: [Not Secure] <Fran_Luxu> oye
-[02:31:15] [Server thread/INFO]: [Not Secure] <s4antana> JASJSAJSJAJSAJSAJSJASJAS jorge wn
-[02:31:16] [Server thread/INFO]: [Not Secure] <Fran_Luxu> el jorge necesita ayuda
-[02:31:23] [Server thread/INFO]: [Not Secure] <s4antana> ya se murio
-[02:32:08] [Server thread/INFO]: [Not Secure] <s4antana> teamo
-[02:32:14] [Server thread/INFO]: [Not Secure] <Fran_Luxu> chupalo
-[02:32:29] [Server thread/INFO]: [Not Secure] <kito2302> esque tenia frio y la lava esta caliente
-[02:32:32] [Server thread/INFO]: [Not Secure] <s4antana> hacete otra armor
-[02:32:33] [Server thread/INFO]: [Not Secure] <Fran_Luxu> uff
-[02:32:36] [Server thread/INFO]: [Not Secure] <kito2302> sssw2we32we3e4r543ew2werftr43wsd
-[02:32:45] [Server thread/INFO]: [Not Secure] <kito2302> pa que sepan
-[02:37:14] [Server thread/INFO]: [Not Secure] <Fran_Luxu> eso lobooo
-[02:37:18] [Server thread/INFO]: [Not Secure] <Fran_Luxu> matalo
-[02:37:22] [Server thread/INFO]: [Not Secure] <Fran_Luxu> hacelo mierda
-[02:37:49] [Server thread/INFO]: [Not Secure] <s4antana> iron
-[02:37:55] [Server thread/INFO]: [Not Secure] <s4antana> do you have iron?
-[02:37:58] [Server thread/INFO]: [Not Secure] <Fran_Luxu> yunker?
-[02:38:07] [Server thread/INFO]: [Not Secure] <Fran_Luxu> much much
-[02:38:16] [Server thread/INFO]: [Not Secure] <s4antana> thanks bitch
-[02:39:27] [Server thread/INFO]: [Not Secure] <Fran_Luxu> no robe nada wons
-[02:39:30] [Server thread/INFO]: [Not Secure] <s4antana> mira wn+
-[02:39:37] [Server thread/INFO]: [Not Secure] <Fran_Luxu> QUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-[02:39:57] [Server thread/INFO]: [Not Secure] <Fran_Luxu> que somos pros
-[02:40:20] [Server thread/INFO]: [Not Secure] <Fran_Luxu> me encanta
-[02:40:22] [Server thread/INFO]: [Not Secure] <s4antana> xd
-[02:40:45] [Server thread/INFO]: [Not Secure] <Fran_Luxu> mira mira, ahora voy yo
-[02:41:13] [Server thread/INFO]: [Not Secure] <s4antana> tienes ender pearl?
-[02:41:17] [Server thread/INFO]: [Not Secure] <kito2302> no
-[02:41:26] [Server thread/INFO]: [Not Secure] <s4antana> tu no pendjo
-[02:41:33] [Server thread/INFO]: [Not Secure] <kito2302> oooo ya
-[02:42:27] [Server thread/INFO]: [Not Secure] <Fran_Luxu> Gaste una etiqueta al pedo boludo
-[02:42:33] [Server thread/INFO]: [Not Secure] <s4antana> JSAJSJSJ
-[02:42:42] [Server thread/INFO]: [Not Secure] <s4antana> ke eri weeon
-[02:42:48] [Server thread/INFO]: [Not Secure] <s4antana> no se hace asi JSAJSJAJA
-[02:42:50] [Server thread/INFO]: [Not Secure] <Fran_Luxu> nono, un perro se llamara asi
-[02:42:53] [Server thread/INFO]: [Not Secure] <Fran_Luxu> queda piola
-[02:42:59] [Server thread/INFO]: [Not Secure] <s4antana> siweon
-[02:43:02] [Server thread/INFO]: [Not Secure] <Fran_Luxu> un perro llamado asi
-[02:43:06] [Server thread/INFO]: [Not Secure] <Fran_Luxu> bakan po
-[02:43:07] [Server thread/INFO]: [Not Secure] <s4antana> jorge faltas tu aqui
-[02:43:21] [Server thread/INFO]: [Not Secure] <kito2302> lose
-[02:43:28] [Server thread/INFO]: [Not Secure] <kito2302> :)
-[02:43:39] [Server thread/INFO]: [Not Secure] <kito2302> );
-[02:44:21] [Server thread/INFO]: [Not Secure] <Fran_Luxu> XD
-[02:44:27] [Server thread/INFO]: [Not Secure] <kito2302> +}
-[02:44:37] [Server thread/INFO]: [Not Secure] <s4antana> JSJASJJS
-[02:45:37] [Server thread/INFO]: [Not Secure] <Fran_Luxu> lo sacamos?
-[02:45:53] [Server thread/INFO]: [Not Secure] <s4antana> deque
-[02:46:33] [Server thread/INFO]: [Not Secure] <Fran_Luxu> dormamos
-[02:46:55] [Server thread/INFO]: [Not Secure] <s4antana> hagan tuto
-[02:47:02] [Server thread/INFO]: [Not Secure] <Fran_Luxu> y el piko
-[02:47:03] [Server thread/INFO]: [Not Secure] <s4antana> ay panchoo
-[02:47:10] [Server thread/INFO]: [Not Secure] <Fran_Luxu> ayyyyyyyyyyyyyyyyyyyyyyyyyyy
-[02:47:21] [Server thread/INFO]: [Not Secure] <s4antana> cucharita
-[02:47:27] [Server thread/INFO]: [Not Secure] <Fran_Luxu> nono
-[02:47:58] [Server thread/INFO]: [Not Secure] <s4antana> AJJSASJAJJ la wea chistosa
-[02:48:03] [Server thread/INFO]: [Not Secure] <Fran_Luxu> se enojara?
-[02:48:06] [Server thread/INFO]: [Not Secure] <s4antana> na
-[02:48:18] [Server thread/INFO]: [Not Secure] <s4antana> MARICON LO CAMBIASTE JASAJJSA
-[02:48:34] [Server thread/INFO]: [Not Secure] <Fran_Luxu> jaja
-[02:48:48] [Server thread/INFO]: [Not Secure] <s4antana> ya ahi si
-[02:48:55] [Server thread/INFO]: [Not Secure] <Fran_Luxu> SIPO
-[02:49:03] [Server thread/INFO]: s4antana lost connection: Disconnected
-[02:49:03] [Server thread/INFO]: s4antana left the game
-[02:49:22] [Server thread/INFO]: s4antana[/127.201.129.239:51905] logged in with entity id 50857 at (-1524.7240225917901, -49.0, 4322.238795420351)
-[02:49:22] [Server thread/INFO]: s4antana joined the game
-[02:49:26] [Server thread/INFO]: [Not Secure] <s4antana> ya wey
-[02:49:30] [Server thread/INFO]: [Not Secure] <Fran_Luxu> vixo
-[02:49:30] [Server thread/INFO]: [Not Secure] <s4antana> me voy yo
-[02:49:33] [Server thread/INFO]: [Not Secure] <s4antana> dime
-[02:49:39] [Server thread/INFO]: [Not Secure] <Fran_Luxu> no nada wey, me arrepenti
-[02:49:42] [Server thread/INFO]: [Not Secure] <kito2302> oka oka
-[02:49:44] [Server thread/INFO]: [Not Secure] <s4antana> que po weon
-[02:49:53] [Server thread/INFO]: [Not Secure] <Fran_Luxu> mañana lo conversamos
-[02:49:53] [Server thread/INFO]: [Not Secure] <kito2302> buenas noches turroncito
-[02:49:59] [Server thread/INFO]: [Not Secure] <s4antana> bueno wey
-[02:50:01] [Server thread/INFO]: [Not Secure] <Fran_Luxu> buenas noches beybi
-[02:50:12] [Server thread/INFO]: [Not Secure] <Fran_Luxu> guapot
-[02:50:16] [Server thread/INFO]: [Not Secure] <Fran_Luxu> guapote
-[02:50:19] [Server thread/INFO]: [Not Secure] <s4antana> buenas nochees weonasos
-[02:50:28] [Server thread/INFO]: [Not Secure] <s4antana> descansen nos vemos mañana
-[02:50:37] [Server thread/INFO]: s4antana lost connection: Disconnected
-[02:50:37] [Server thread/INFO]: s4antana left the game
+[03:27:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:27:33] [ServerMain/INFO]: Loaded 1337 recipes
+[03:27:33] [ServerMain/INFO]: Loaded 1448 advancements
+[03:27:33] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:27:33] [Server thread/INFO]: Loading properties
+[03:27:33] [Server thread/INFO]: Default game type: SURVIVAL
+[03:27:33] [Server thread/INFO]: Generating keypair
+[03:27:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:27:34] [Server thread/INFO]: Using epoll channel type
+[03:27:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:27:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:27:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:27:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:27:34] [Server thread/INFO]: Preparing level "world"
+[03:27:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:27:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:27:43] [Server thread/INFO]: Time elapsed: 8060 ms
+[03:27:43] [Server thread/INFO]: Done (8.919s)! For help, type "help"
+[03:28:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:30:23] [Server thread/INFO]: Fran_Luxu[/127.212.175.87:42767] logged in with entity id 6 at (-1522.699999988079, -36.0, 4314.699999988079)
+[03:30:23] [Server thread/INFO]: Fran_Luxu joined the game
+[03:32:24] [Server thread/INFO]: Fran_Luxu lost connection: Timed out
+[03:32:24] [Server thread/INFO]: Fran_Luxu left the game
+[03:32:32] [Server thread/INFO]: Fran_Luxu[/127.212.175.87:33365] logged in with entity id 510 at (-1522.699999988079, -36.0, 4314.666977982448)
+[03:32:32] [Server thread/INFO]: Fran_Luxu joined the game
+[03:36:04] [Server thread/INFO]: kito2302[/127.123.36.224:60171] logged in with entity id 889 at (-3681.9499228850823, 47.0, 3418.784122406995)
+[03:36:04] [Server thread/INFO]: kito2302 joined the game
+[03:50:33] [Server thread/INFO]: Fran_Luxu lost connection: Timed out
+[03:50:33] [Server thread/INFO]: Fran_Luxu left the game
+[03:51:19] [Server thread/INFO]: Fran_Luxu[/127.170.168.146:51395] logged in with entity id 5524 at (-1522.699999988079, -36.0, 4314.699999988079)
+[03:51:19] [Server thread/INFO]: Fran_Luxu joined the game
