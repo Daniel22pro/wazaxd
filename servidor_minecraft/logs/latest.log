@@ -170,3 +170,30 @@
 [01:47:18] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to Fran_Luxu]
 [01:48:00] [Server thread/INFO]: Incorrect argument for command
 [01:48:00] [Server thread/INFO]: ...70 100000 xito_xv1_<--[HERE]
+[01:49:20] [Server thread/INFO]: [xito_xv1_: Gave 1 [Crimson Sign] to xito_xv1_]
+[01:50:14] [Server thread/INFO]: Incorrect argument for command
+[01:50:14] [Server thread/INFO]: ... 10 10000 xito_xv1_<--[HERE]
+[01:52:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:52:02] [Server thread/INFO]: /title @p title {text:nigga,color:dark_aqua,opcion:true}<--[HERE]
+[01:52:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:52:22] [Server thread/INFO]: ,color:dark_aqua,opcion:true}/title @p title {text:nigga,color:dark_aqua,opcion:true}title @p title {text:nigga,color:dark_aqua,opcion:true}<--[HERE]
+[01:52:24] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 3 path $.
+[01:52:24] [Server thread/INFO]: ...p title {text:nigga,color:dark_aqua,opcion:true}<--[HERE]
+[01:52:35] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 3 path $.
+[01:52:35] [Server thread/INFO]: ...p title {text:nigga,color:dark_aqua<--[HERE]
+[01:53:12] [Server thread/INFO]: Showing new subtitle for 3 players
+[01:53:22] [Server thread/INFO]: Showing new subtitle for 3 players
+[01:53:28] [Server thread/INFO]: Showing new title for 3 players
+[01:53:32] [Server thread/INFO]: Showing new title for 3 players
+[01:53:33] [Server thread/INFO]: Showing new title for 3 players
+[01:53:33] [Server thread/INFO]: Showing new title for 3 players
+[01:53:34] [Server thread/INFO]: Showing new title for 3 players
+[01:53:34] [Server thread/INFO]: Showing new title for 3 players
+[01:53:48] [Server thread/INFO]: [Not Secure] <javaralol> que es eso
+[01:53:54] [Server thread/INFO]: [Not Secure] <javaralol> de la pantalla
+[01:54:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12352, y=57, z=-26076} jh{x=-12351, y=57, z=-26075}
+[01:54:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12363, y=57, z=-26061} jh{x=-12364, y=56, z=-26059}
+[01:54:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12363, y=57, z=-26061} jh{x=-12364, y=56, z=-26059}
+[01:54:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12363, y=57, z=-26061} jh{x=-12364, y=56, z=-26059}
+[01:55:36] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[01:55:36] [Server thread/INFO]: xito_xv1_ left the game
