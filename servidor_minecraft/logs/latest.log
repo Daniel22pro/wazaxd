@@ -1,210 +1,59 @@
-[00:58:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:58:02] [ServerMain/INFO]: Loaded 1337 recipes
-[00:58:02] [ServerMain/INFO]: Loaded 1448 advancements
-[00:58:02] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:58:02] [Server thread/INFO]: Loading properties
-[00:58:02] [Server thread/INFO]: Default game type: SURVIVAL
-[00:58:02] [Server thread/INFO]: Generating keypair
-[00:58:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:58:03] [Server thread/INFO]: Using epoll channel type
-[00:58:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:58:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:58:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:58:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:58:03] [Server thread/INFO]: Preparing level "world"
-[00:58:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:58:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:58:06] [Server thread/INFO]: Time elapsed: 3119 ms
-[00:58:06] [Server thread/INFO]: Done (3.502s)! For help, type "help"
-[00:58:10] [Server thread/INFO]: xito_xv1_[/127.94.239.223:42221] logged in with entity id 6 at (566.5423730984204, 54.0, -20.505846793128363)
-[00:58:10] [Server thread/INFO]: xito_xv1_ joined the game
-[00:58:13] [Server thread/INFO]: Fran_Luxu[/127.196.153.48:41055] logged in with entity id 151 at (-187.58375574759594, 18.0, 573.381104342805)
-[00:58:13] [Server thread/INFO]: Fran_Luxu joined the game
-[00:58:20] [Server thread/INFO]: SolgaleoHD[/127.59.92.96:52427] logged in with entity id 265 at (-12369.3125, 54.5875, -26053.6875)
-[00:58:20] [Server thread/INFO]: SolgaleoHD joined the game
-[00:58:23] [Server thread/INFO]: [Not Secure] <xito_xv1_> martinsini ñatini
-[00:58:26] [Server thread/INFO]: [Not Secure] <SolgaleoHD> maxi
-[00:58:31] [Server thread/INFO]: [Not Secure] <SolgaleoHD> pq te sali de llama
-[00:58:32] [Server thread/INFO]: yatorin[/127.202.184.70:53571] logged in with entity id 633 at (-12353.563582194245, 55.0, -26058.987025980234)
-[00:58:32] [Server thread/INFO]: yatorin joined the game
-[00:58:33] [Server thread/INFO]: [Not Secure] <SolgaleoHD> weko
-[00:58:43] [Server thread/INFO]: [Not Secure] <SolgaleoHD> ./clear xito_xv1_
-[00:58:57] [Server thread/INFO]: [Not Secure] <xito_xv1_> pq la verda ta fome la llama
-[00:58:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-186, y=4, z=600} jh{x=-186, y=6, z=601}
-[00:59:09] [Server thread/INFO]: [SolgaleoHD: Gave 2 [Lectern] to SolgaleoHD]
-[00:59:14] [Server thread/INFO]: [Not Secure] <xito_xv1_> okeey
-[00:59:22] [Server thread/INFO]: [Not Secure] <SolgaleoHD> se me perdieron por el reset
-[00:59:37] [Server thread/INFO]: [Not Secure] <xito_xv1_> y yo cmo 3 stack de tronco
-[00:59:40] [Server thread/INFO]: [Not Secure] <xito_xv1_> y no digo na
-[00:59:42] [Server thread/INFO]: [Not Secure] <SolgaleoHD> date po
-[00:59:43] [Server thread/INFO]: [Not Secure] <xito_xv1_> mish
-[01:00:00] [Server thread/INFO]: s4antana[/127.201.129.239:41041] logged in with entity id 1164 at (-1529.265734609571, -51.0, 4328.7868871171)
-[01:00:00] [Server thread/INFO]: s4antana joined the game
-[01:03:00] [Server thread/INFO]: javaralol[/127.15.39.57:51349] logged in with entity id 2814 at (24.95566905182851, 73.0, 127.04908829735524)
-[01:03:00] [Server thread/INFO]: javaralol joined the game
-[01:03:13] [Server thread/INFO]: [Not Secure] <SolgaleoHD> javiera
-[01:03:17] [Server thread/INFO]: [Not Secure] <SolgaleoHD> t tpeo hacia aca?
-[01:03:21] [Server thread/INFO]: [Not Secure] <javaralol> siii
-[01:03:23] [Server thread/INFO]: [Not Secure] <javaralol> porfaaa
-[01:03:36] [Server thread/INFO]: [SolgaleoHD: Teleported SolgaleoHD to javaralol]
-[01:03:40] [Server thread/INFO]: [SolgaleoHD: Teleported SolgaleoHD to yatorin]
-[01:03:49] [Server thread/INFO]: [Not Secure] <javaralol> k
-[01:03:51] [Server thread/INFO]: [SolgaleoHD: Teleported javaralol to SolgaleoHD]
-[01:04:53] [Server thread/INFO]: [xito_xv1_: Gave 190 [Crimson Stem] to xito_xv1_]
-[01:05:23] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:05:34] [Server thread/INFO]: [Not Secure] <xito_xv1_> dani pq me mandaste un tarro de leche al inventario
-[01:05:37] [Server thread/INFO]: [Not Secure] <xito_xv1_> no soy el yato wn
-[01:05:38] [Server thread/INFO]: [Not Secure] <SolgaleoHD> es mi semens
-[01:05:41] [Server thread/INFO]: [Not Secure] <SolgaleoHD> cometelo
-[01:05:43] [Server thread/INFO]: [Not Secure] <xito_xv1_> no
-[01:05:44] [Server thread/INFO]: [Not Secure] <SolgaleoHD> xanxo reqliao
-[01:05:45] [Server thread/INFO]: [Not Secure] <javaralol> tienen madera?
-[01:05:46] [Server thread/INFO]: [Not Secure] <yatorin> xdddd
-[01:05:49] [Server thread/INFO]: [Not Secure] <Fran_Luxu> premio?
-[01:05:51] [Server thread/INFO]: [Not Secure] <SolgaleoHD> toma
-[01:06:00] [Server thread/INFO]: [Not Secure] <xito_xv1_> el fran quiere tu semens
-[01:06:01] [Server thread/INFO]: [Not Secure] <xito_xv1_> enviale
-[01:06:14] [Server thread/INFO]: [Not Secure] <Fran_Luxu> no mandes lo que deseas
-[01:06:16] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to Fran_Luxu]
-[01:06:22] [Server thread/INFO]: [Not Secure] <xito_xv1_> xD
-[01:06:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=610, y=53, z=49} jh{x=617, y=49, z=0}
-[01:06:26] [Server thread/INFO]: [Not Secure] <s4antana> MI ESPADA
-[01:06:30] [Server thread/INFO]: [Not Secure] <SolgaleoHD> le llego por delivery
-[01:06:38] [Server thread/INFO]: [Not Secure] <s4antana> JJASSAJJ
-[01:07:37] [Server thread/INFO]: [Not Secure] <javaralol> puedo picar? necesito piedra
-[01:07:43] [Server thread/INFO]: [Not Secure] <yatorin> dale noma
-[01:07:49] [Server thread/INFO]: [Not Secure] <yatorin> hay en los cofres igual
-[01:08:34] [Server thread/INFO]: [Not Secure] <javaralol> no hay
-[01:08:38] [Server thread/INFO]: [Not Secure] <SolgaleoHD> en este
-[01:08:50] [Server thread/INFO]: [Not Secure] <Fran_Luxu> espera wn, miniatura XD
-[01:09:15] [Server thread/INFO]: [Not Secure] <s4antana> CORREEEEEE jsajsajajss
-[01:10:09] [Server thread/INFO]: [Not Secure] <Fran_Luxu> Nuestro trofeo
-[01:10:20] [Server thread/INFO]: [Not Secure] <s4antana> ponele la etiqueta con el nombre
-[01:11:06] [Server thread/INFO]: [Not Secure] <javaralol> puedo sacar una carne?
-[01:11:13] [Server thread/INFO]: [Not Secure] <SolgaleoHD> si dale noma
-[01:11:17] [Server thread/INFO]: [Not Secure] <Fran_Luxu> vixo
-[01:11:19] [Server thread/INFO]: [Not Secure] <yatorin> saca lo q querai noma
-[01:11:21] [Server thread/INFO]: [Not Secure] <SolgaleoHD> si tenemos caleta de cultivo
-[01:11:26] [Server thread/INFO]: [Not Secure] <Fran_Luxu> le pongo el matawatonas?
-[01:11:34] [Server thread/INFO]: [Not Secure] <s4antana> siiii
-[01:12:04] [Server thread/INFO]: Named entity cnq['MATA WATONAS'/5603, l='ServerLevel[world]', x=-1531.50, y=-49.92, z=4317.70] died: MATA WATONAS suffocated in a wall
-[01:12:06] [Server thread/INFO]: [SolgaleoHD: Applied effect Slowness to xito_xv1_]
-[01:12:09] [Server thread/INFO]: [Not Secure] <Fran_Luxu> NOOOOOOOOOOOOOOOOOOO
-[01:12:10] [Server thread/INFO]: [Not Secure] <s4antana> AJSAJSAJAJSAJSJASJAJA
-[01:12:28] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:31] [Server thread/INFO]: [xito_xv1_: Removed every effect from xito_xv1_]
-[01:12:32] [Server thread/INFO]: [Not Secure] <javaralol> SORRY
-[01:12:38] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:38] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:39] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:39] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:40] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:40] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:40] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:41] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:42] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:42] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:42] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:43] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:43] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:44] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:45] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to xito_xv1_]
-[01:12:46] [Server thread/INFO]: [Not Secure] <Fran_Luxu> dame mas leche
-[01:13:05] [Server thread/INFO]: [Not Secure] <s4antana> CUIDADO CON DON OMAR WEON
-[01:13:10] [Server thread/INFO]: [SolgaleoHD: Gave 1 [Milk Bucket] to SolgaleoHD]
-[01:13:11] [Server thread/INFO]: [Not Secure] <Fran_Luxu> Ya
-[01:13:28] [Server thread/INFO]: [Not Secure] <Fran_Luxu> dejalo disfrutar
-[01:15:04] [Server thread/INFO]: [xito_xv1_: Applied effect Darkness to yatorin]
-[01:15:15] [Server thread/INFO]: [SolgaleoHD: Removed every effect from yatorin]
-[01:16:26] [Server thread/INFO]: [Not Secure] <Fran_Luxu> increible
-[01:17:14] [Server thread/INFO]: [Not Secure] <s4antana> epico
-[01:20:13] [Server thread/INFO]: [Not Secure] <javaralol> que hago?
-[01:20:31] [Server thread/INFO]: [Not Secure] <SolgaleoHD> podi ir a minar pa conseguir tu armadura
-[01:20:44] [Server thread/INFO]: [Not Secure] <javaralol> pero para donde se puede?
-[01:20:54] [Server thread/INFO]: [Not Secure] <yatorin> dnd sea no ma
-[01:20:54] [Server thread/INFO]: [Not Secure] <SolgaleoHD> pa cualquier lado noma
-[01:20:54] [Server thread/INFO]: [Not Secure] <Fran_Luxu> En una mina creo yo
-[01:20:55] [Server thread/INFO]: [Not Secure] <SolgaleoHD> nt
-[01:22:10] [Server thread/INFO]: [Not Secure] <s4antana> yaaa me voy chiquillos, chau que descansen
-[01:22:16] [Server thread/INFO]: [Not Secure] <yatorin> bye
-[01:22:18] [Server thread/INFO]: [Not Secure] <xito_xv1_> byee
-[01:22:20] [Server thread/INFO]: [Not Secure] <Fran_Luxu> chao mano
-[01:22:22] [Server thread/INFO]: [Not Secure] <SolgaleoHD> bye negga
-[01:22:28] [Server thread/INFO]: [Not Secure] <javaralol> chao
-[01:22:37] [Server thread/INFO]: s4antana lost connection: Disconnected
-[01:22:37] [Server thread/INFO]: s4antana left the game
-[01:23:18] [Server thread/INFO]: [Not Secure] <javaralol> un poco de carbon tienen?
-[01:23:32] [Server thread/INFO]: [Not Secure] <javaralol> no encontre
-[01:23:35] [Server thread/INFO]: [Not Secure] <javaralol> en los cofres
-[01:23:42] [Server thread/INFO]: [Not Secure] <yatorin> en los hornos creo q hay
-[01:23:49] [Server thread/INFO]: [Not Secure] <yatorin> saca noma
-[01:24:23] [Server thread/INFO]: [xito_xv1_: Gave 1 [Blaze Powder] to xito_xv1_]
-[01:24:33] [Server thread/INFO]: [xito_xv1_: Gave 1 [Blaze Rod] to xito_xv1_]
-[01:25:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-204, y=34, z=532} jh{x=-224, y=28, z=544}
-[01:27:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-204, y=34, z=532} jh{x=-224, y=25, z=545}
-[01:28:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-204, y=34, z=532} jh{x=-224, y=23, z=550}
-[01:29:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-204, y=34, z=532} jh{x=-224, y=22, z=549}
-[01:31:58] [Server thread/INFO]: Villager cpj['Farmer'/271, l='ServerLevel[world]', x=-12378.04, y=68.77, z=-26117.50] died, message: 'Farmer was slain by Zombie'
-[01:32:52] [Server thread/INFO]: javaralol drowned
-[01:33:16] [Server thread/INFO]: [Not Secure] <javaralol> me haces tp porfa
-[01:33:26] [Server thread/INFO]: [SolgaleoHD: Teleported javaralol to SolgaleoHD]
-[01:33:54] [Server thread/INFO]: SolgaleoHD lost connection: Disconnected
-[01:33:54] [Server thread/INFO]: SolgaleoHD left the game
-[01:37:54] [Server thread/INFO]: [Not Secure] <javaralol> este va a ser el lugar definitivo?
-[01:38:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5095, y=63, z=20} jh{x=5095, y=62, z=18}
-[01:39:45] [Server thread/INFO]: [xito_xv1_: Gave 1 [Anvil] to xito_xv1_]
-[01:40:04] [Server thread/INFO]: [xito_xv1_: Set own game mode to Creative Mode]
-[01:40:12] [Server thread/INFO]: Fran_Luxu lost connection: Disconnected
-[01:40:12] [Server thread/INFO]: Fran_Luxu left the game
-[01:42:22] [Server thread/INFO]: [xito_xv1_: Set own game mode to Survival Mode]
-[01:46:19] [Server thread/INFO]: yatorin lost connection: Disconnected
-[01:46:19] [Server thread/INFO]: yatorin left the game
-[01:47:15] [Server thread/INFO]: Fran_Luxu[/127.196.153.48:60545] logged in with entity id 26968 at (-1520.292576252722, -49.0, 4323.89647890112)
-[01:47:15] [Server thread/INFO]: Fran_Luxu joined the game
-[01:47:18] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to Fran_Luxu]
-[01:48:00] [Server thread/INFO]: Incorrect argument for command
-[01:48:00] [Server thread/INFO]: ...70 100000 xito_xv1_<--[HERE]
-[01:49:20] [Server thread/INFO]: [xito_xv1_: Gave 1 [Crimson Sign] to xito_xv1_]
-[01:50:14] [Server thread/INFO]: Incorrect argument for command
-[01:50:14] [Server thread/INFO]: ... 10 10000 xito_xv1_<--[HERE]
-[01:52:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:52:02] [Server thread/INFO]: /title @p title {text:nigga,color:dark_aqua,opcion:true}<--[HERE]
-[01:52:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:52:22] [Server thread/INFO]: ,color:dark_aqua,opcion:true}/title @p title {text:nigga,color:dark_aqua,opcion:true}title @p title {text:nigga,color:dark_aqua,opcion:true}<--[HERE]
-[01:52:24] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 3 path $.
-[01:52:24] [Server thread/INFO]: ...p title {text:nigga,color:dark_aqua,opcion:true}<--[HERE]
-[01:52:35] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 3 path $.
-[01:52:35] [Server thread/INFO]: ...p title {text:nigga,color:dark_aqua<--[HERE]
-[01:53:12] [Server thread/INFO]: Showing new subtitle for 3 players
-[01:53:22] [Server thread/INFO]: Showing new subtitle for 3 players
-[01:53:28] [Server thread/INFO]: Showing new title for 3 players
-[01:53:32] [Server thread/INFO]: Showing new title for 3 players
-[01:53:33] [Server thread/INFO]: Showing new title for 3 players
-[01:53:33] [Server thread/INFO]: Showing new title for 3 players
-[01:53:34] [Server thread/INFO]: Showing new title for 3 players
-[01:53:34] [Server thread/INFO]: Showing new title for 3 players
-[01:53:48] [Server thread/INFO]: [Not Secure] <javaralol> que es eso
-[01:53:54] [Server thread/INFO]: [Not Secure] <javaralol> de la pantalla
-[01:54:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12352, y=57, z=-26076} jh{x=-12351, y=57, z=-26075}
-[01:54:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12363, y=57, z=-26061} jh{x=-12364, y=56, z=-26059}
-[01:54:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12363, y=57, z=-26061} jh{x=-12364, y=56, z=-26059}
-[01:54:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12363, y=57, z=-26061} jh{x=-12364, y=56, z=-26059}
-[01:55:36] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
-[01:55:36] [Server thread/INFO]: xito_xv1_ left the game
-[02:02:10] [Server thread/INFO]: [Not Secure] <javaralol> chao fran
-[02:02:13] [Server thread/INFO]: [Not Secure] <javaralol> me voy
-[02:02:16] [Server thread/INFO]: [Not Secure] <Fran_Luxu> chaoo java
-[02:02:24] [Server thread/INFO]: [Not Secure] <javaralol> que te vaya bien :)
-[02:02:28] [Server thread/INFO]: [Not Secure] <Fran_Luxu> graciasss
-[02:02:37] [Server thread/INFO]: [Not Secure] <javaralol> nos vemos mañana
-[02:02:50] [Server thread/INFO]: javaralol lost connection: Disconnected
-[02:02:50] [Server thread/INFO]: javaralol left the game
-[02:19:56] [Server thread/INFO]: Fran_Luxu lost connection: Disconnected
-[02:19:56] [Server thread/INFO]: Fran_Luxu left the game
-[02:20:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:25:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:25:41] [ServerMain/INFO]: Loaded 1337 recipes
+[03:25:41] [ServerMain/INFO]: Loaded 1448 advancements
+[03:25:41] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:25:41] [Server thread/INFO]: Loading properties
+[03:25:41] [Server thread/INFO]: Default game type: SURVIVAL
+[03:25:41] [Server thread/INFO]: Generating keypair
+[03:25:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:25:41] [Server thread/INFO]: Using epoll channel type
+[03:25:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:25:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:25:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:25:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:25:42] [Server thread/INFO]: Preparing level "world"
+[03:25:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:25:45] [Server thread/INFO]: Time elapsed: 3252 ms
+[03:25:45] [Server thread/INFO]: Done (3.626s)! For help, type "help"
+[03:26:03] [Server thread/INFO]: Fran_Luxu[/127.141.4.188:41131] logged in with entity id 4 at (-1522.699999988079, -49.0, 4327.274355087364)
+[03:26:03] [Server thread/INFO]: Fran_Luxu joined the game
+[03:27:16] [Server thread/INFO]: xito_xv1_[/127.94.239.223:60223] logged in with entity id 310 at (-1583.473441326854, 63.0, 4413.954621349982)
+[03:27:16] [Server thread/INFO]: xito_xv1_ joined the game
+[03:27:22] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[03:27:22] [Server thread/INFO]: xito_xv1_ left the game
+[03:27:26] [Server thread/INFO]: s4antana[/127.123.36.224:49991] logged in with entity id 446 at (-1522.586516420869, -49.0, 4324.229914384921)
+[03:27:26] [Server thread/INFO]: s4antana joined the game
+[03:27:37] [Server thread/INFO]: kito2302[/127.123.36.224:54413] logged in with entity id 457 at (-3693.164741239647, 47.0, 3418.2182549014133)
+[03:27:37] [Server thread/INFO]: kito2302 joined the game
+[03:28:03] [Server thread/INFO]: xito_xv1_[/127.94.239.223:52423] logged in with entity id 821 at (-1583.473441326854, 63.0, 4413.954621349982)
+[03:28:03] [Server thread/INFO]: xito_xv1_ joined the game
+[03:28:09] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[03:28:09] [Server thread/INFO]: xito_xv1_ left the game
+[03:28:25] [Server thread/INFO]: [Not Secure] <Fran_Luxu> vixo
+[03:28:28] [Server thread/INFO]: [Not Secure] <s4antana> ke
+[03:28:29] [Server thread/INFO]: [Not Secure] <Fran_Luxu> falta la madera
+[03:29:23] [Server thread/INFO]: xito_xv1_[/127.94.239.223:59969] logged in with entity id 1235 at (-1583.473441326854, 63.0, 4413.954621349982)
+[03:29:23] [Server thread/INFO]: xito_xv1_ joined the game
+[03:29:29] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[03:29:29] [Server thread/INFO]: xito_xv1_ left the game
+[03:31:07] [Server thread/INFO]: xito_xv1_[/127.94.239.223:55493] logged in with entity id 1850 at (-1583.473441326854, 63.0, 4413.954621349982)
+[03:31:07] [Server thread/INFO]: xito_xv1_ joined the game
+[03:31:13] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[03:31:13] [Server thread/INFO]: xito_xv1_ left the game
+[03:32:02] [Server thread/INFO]: xito_xv1_[/127.94.239.223:33181] logged in with entity id 2160 at (-1583.473441326854, 63.0, 4413.954621349982)
+[03:32:02] [Server thread/INFO]: xito_xv1_ joined the game
+[03:32:07] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[03:32:07] [Server thread/INFO]: xito_xv1_ left the game
+[03:32:15] [Server thread/WARN]: Player s4antana just tried to change non-editable sign
+[03:33:13] [Server thread/INFO]: xito_xv1_[/127.94.239.223:59013] logged in with entity id 2568 at (-1583.473441326854, 63.0, 4413.954621349982)
+[03:33:13] [Server thread/INFO]: xito_xv1_ joined the game
+[03:33:18] [Server thread/INFO]: [Not Secure] <kito2302> XITTTO
+[03:33:18] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
+[03:33:18] [Server thread/INFO]: xito_xv1_ left the game
