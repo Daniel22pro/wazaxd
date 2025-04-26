@@ -1,351 +1,45 @@
-[04:04:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:04:11] [ServerMain/INFO]: Loaded 1337 recipes
-[04:04:11] [ServerMain/INFO]: Loaded 1448 advancements
-[04:04:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[04:04:12] [Server thread/INFO]: Loading properties
-[04:04:12] [Server thread/INFO]: Default game type: SURVIVAL
-[04:04:12] [Server thread/INFO]: Generating keypair
-[04:04:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:04:12] [Server thread/INFO]: Using epoll channel type
-[04:04:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:04:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:04:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:04:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:04:12] [Server thread/INFO]: Preparing level "world"
-[04:04:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:04:16] [Server thread/INFO]: Time elapsed: 3227 ms
-[04:04:16] [Server thread/INFO]: Done (3.556s)! For help, type "help"
-[04:04:23] [Server thread/INFO]: MXTXN123[/127.67.181.244:33485] logged in with entity id 4 at (263.69999998807907, 22.713600006103515, -190.30000001192093)
-[04:04:23] [Server thread/INFO]: MXTXN123 joined the game
-[04:04:37] [Server thread/INFO]: xito_xv1_[/127.94.239.223:53257] logged in with entity id 210 at (264.6839852981702, 56.0, -195.26002184908782)
-[04:04:37] [Server thread/INFO]: xito_xv1_ joined the game
-[04:04:50] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to MXTXN123]
-[04:04:53] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to MXTXN123]
-[04:04:55] [Server thread/INFO]: kito2302[/127.123.36.224:44287] logged in with entity id 212 at (-3691.5, 46.0, 3425.5)
-[04:04:55] [Server thread/INFO]: kito2302 joined the game
-[04:05:06] [Server thread/INFO]: Fran_Luxu[/127.141.4.188:34373] logged in with entity id 503 at (264.6829336169103, 45.231523797587016, -190.30000001192093)
-[04:05:06] [Server thread/INFO]: Fran_Luxu joined the game
-[04:05:13] [Server thread/INFO]: [Not Secure] <kito2302> y mi regalo
-[04:05:14] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
-[04:05:14] [Server thread/INFO]: xito_xv1_ left the game
-[04:05:32] [Server thread/INFO]: Fran_Luxu was slain by MXTXN123
-[04:05:45] [Server thread/INFO]: [Not Secure] <kito2302> que el xito te de sui pixula de regalo
-[04:05:46] [Server thread/INFO]: No player was found
-[04:05:54] [Server thread/INFO]: xito_xv1_[/127.94.239.223:33075] logged in with entity id 926 at (263.30000001192093, -9.804081163511716, -190.30000001192093)
-[04:05:54] [Server thread/INFO]: xito_xv1_ joined the game
-[04:05:59] [Server thread/INFO]: [Not Secure] <Fran_Luxu> chupalo martin
-[04:05:59] [Server thread/INFO]: xito_xv1_ has reached the goal [Postmortal]
-[04:05:59] [Server thread/INFO]: xito_xv1_ lost connection: Disconnected
-[04:05:59] [Server thread/INFO]: xito_xv1_ left the game
-[04:06:13] [Server thread/INFO]: [Not Secure] <kito2302> cords
-[04:06:18] [Server thread/INFO]: [Not Secure] <kito2302> ????
-[04:06:27] [Server thread/INFO]: MXTXN123 lost connection: Disconnected
-[04:06:27] [Server thread/INFO]: MXTXN123 left the game
-[04:06:29] [Server thread/INFO]: [Not Secure] <kito2302> xito mi regalo
-[04:06:31] [Server thread/INFO]: Incorrect argument for command
-[04:06:31] [Server thread/INFO]: ...l mxtkill mxtxn123<--[HERE]
-[04:06:39] [Server thread/INFO]: MXTXN123[/127.67.181.244:46501] logged in with entity id 1204 at (263.69999998807907, -8.0, -190.49009755863605)
-[04:06:39] [Server thread/INFO]: MXTXN123 joined the game
-[04:06:46] [Server thread/INFO]: Incorrect argument for command
-[04:06:46] [Server thread/INFO]: ...l MXTKILL MXTXN123<--[HERE]
-[04:06:46] [Server thread/INFO]: Chrissisxd[/127.74.60.67:39263] logged in with entity id 1422 at (225.30000001192093, 80.0, 93.68883920277258)
-[04:06:46] [Server thread/INFO]: Chrissisxd joined the game
-[04:06:52] [Server thread/INFO]: [Not Secure] <kito2302> martin cords
-[04:06:55] [Server thread/INFO]: Named entity cja['CHOCAPIC'/666, l='ServerLevel[world]', x=-1527.30, y=-51.00, z=4323.70] died: CHOCAPIC was slain by Fran_Luxu
-[04:07:15] [Server thread/INFO]: Named entity cic['don omar'/667, l='ServerLevel[world]', x=-1527.20, y=-51.00, z=4325.01] died: don omar was slain by Fran_Luxu
-[04:07:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:07:16] [Server thread/INFO]: KILL /KILL MXTXN123<--[HERE]
-[04:07:22] [Server thread/INFO]: [Not Secure] <Fran_Luxu> jorge cago server
-[04:07:27] [Server thread/INFO]: xito_xv1_[/127.94.239.223:33275] logged in with entity id 1872 at (263.30000001192093, -10.0, -190.30000001192093)
-[04:07:27] [Server thread/INFO]: xito_xv1_ joined the game
-[04:07:34] [Server thread/INFO]: [xito_xv1_: Set own game mode to Creative Mode]
-[04:07:38] [Server thread/INFO]: [Not Secure] <kito2302> porque ????
-[04:07:40] [Server thread/INFO]: MXTXN123 was killed
-[04:07:40] [Server thread/INFO]: [xito_xv1_: Killed MXTXN123]
-[04:07:50] [Server thread/INFO]: [xito_xv1_: Teleported MXTXN123 to xito_xv1_]
-[04:07:54] [Server thread/INFO]: [Not Secure] <MXTXN123> que maricon
-[04:08:01] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to Fran_Luxu]
-[04:08:22] [Server thread/INFO]: [xito_xv1_: Gave 1000 [TNT] to 5]
-[04:08:27] [Server thread/INFO]: [xito_xv1_: Gave 1000 [TNT] to 5]
-[04:08:28] [Server thread/INFO]: [xito_xv1_: Gave 1000 [TNT] to 5]
-[04:08:29] [Server thread/INFO]: [xito_xv1_: Gave 1000 [TNT] to 5]
-[04:08:29] [Server thread/INFO]: [xito_xv1_: Gave 1000 [TNT] to 5]
-[04:08:34] [Server thread/INFO]: [xito_xv1_: Gave 1000 [TNT] to 5]
-[04:09:39] [Server thread/INFO]: Fran_Luxu was blown up by xito_xv1_
-[04:09:49] [Server thread/INFO]: [Not Secure] <kito2302> tp
-[04:10:05] [Server thread/INFO]: [Not Secure] <Chrissisxd> mecher
-[04:10:06] [Server thread/INFO]: [xito_xv1_: Gave 1 [Block of Redstone] to 5]
-[04:10:07] [Server thread/INFO]: [Not Secure] <Chrissisxd> o
-[04:10:24] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to Fran_Luxu]
-[04:10:43] [Server thread/INFO]: Chrissisxd was blown up by Creeper
-[04:10:46] [Server thread/INFO]: Chrissisxd lost connection: Timed out
-[04:10:46] [Server thread/INFO]: Chrissisxd left the game
-[04:10:46] [Server thread/WARN]: handleDisconnection() called twice
-[04:10:48] [Server thread/INFO]: [xito_xv1_: Set kito2302's game mode to Creative Mode]
-[04:10:48] [Server thread/INFO]: [xito_xv1_: Set MXTXN123's game mode to Creative Mode]
-[04:10:48] [Server thread/INFO]: [xito_xv1_: Set Fran_Luxu's game mode to Creative Mode]
-[04:11:20] [Server thread/INFO]: [Not Secure] <xito_xv1_> MURIO EL SV :C
-[04:11:25] [Server thread/INFO]: [Not Secure] <xito_xv1_> putamare
-[04:11:47] [Server thread/INFO]: [xito_xv1_: Made kito2302 a server operator]
-[04:11:47] [Server thread/INFO]: [xito_xv1_: Made kito2302 a server operator]
-[04:11:47] [Server thread/INFO]: [xito_xv1_: Made kito2302 a server operator]
-[04:11:57] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to Fran_Luxu]
-[04:12:02] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to MXTXN123]
-[04:12:14] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to kito2302]
-[04:12:21] [Server thread/INFO]: kito2302 was killed
-[04:12:21] [Server thread/INFO]: xito_xv1_ was killed
-[04:12:21] [Server thread/INFO]: MXTXN123 was killed
-[04:12:21] [Server thread/INFO]: Fran_Luxu was killed
-[04:12:21] [Server thread/INFO]: [MXTXN123: Killed 4 entities]
-[04:12:30] [Server thread/INFO]: [Not Secure] <xito_xv1_> ooo q down
-[04:12:31] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to kito2302]
-[04:12:50] [Server thread/INFO]: [MXTXN123: Teleported MXTXN123 to kito2302]
-[04:12:54] [Server thread/INFO]: kito2302 has completed the challenge [Cover Me in Debris]
-[04:13:11] [Server thread/INFO]: [MXTXN123: Set kito2302's game mode to Survival Mode]
-[04:13:38] [Server thread/INFO]: kito2302 was slain by MXTXN123
-[04:13:46] [Server thread/INFO]: kito2302 was killed
-[04:13:46] [Server thread/INFO]: [kito2302: Killed kito2302]
-[04:14:03] [Server thread/INFO]: [xito_xv1_: Banned IP 127.67.181.244: Banned by an operator.]
-[04:14:03] [Server thread/INFO]: [xito_xv1_: This ban affects 1 player(s): MXTXN123]
-[04:14:03] [Server thread/INFO]: MXTXN123 lost connection: You have been IP banned from this server
-[04:14:03] [Server thread/INFO]: MXTXN123 left the game
-[04:14:25] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:59837): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:14:25] [Server thread/INFO]: MXTXN123 (/127.67.181.244:59837) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:14:25] [Server thread/WARN]: handleDisconnection() called twice
-[04:14:33] [Server thread/INFO]: [kito2302: Set own game mode to Creative Mode]
-[04:14:54] [Server thread/INFO]: [kito2302: Teleported kito2302 to Fran_Luxu]
-[04:14:54] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:60965): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:14:54] [Server thread/INFO]: MXTXN123 (/127.67.181.244:60965) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:14:54] [Server thread/WARN]: handleDisconnection() called twice
-[04:15:35] [Server thread/INFO]: [kito2302: Set Fran_Luxu's game mode to Survival Mode]
-[04:15:41] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:38811): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:15:41] [Server thread/INFO]: MXTXN123 (/127.67.181.244:38811) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:15:41] [Server thread/WARN]: handleDisconnection() called twice
-[04:15:51] [Server thread/INFO]: Fran_Luxu tried to swim in lava to escape kito2302
-[04:16:00] [Server thread/INFO]: [kito2302: Teleported kito2302 to Fran_Luxu]
-[04:16:01] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:54059): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:16:01] [Server thread/INFO]: MXTXN123 (/127.67.181.244:54059) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:16:01] [Server thread/WARN]: handleDisconnection() called twice
-[04:16:09] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:38019): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:16:09] [Server thread/INFO]: MXTXN123 (/127.67.181.244:38019) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:16:09] [Server thread/WARN]: handleDisconnection() called twice
-[04:16:10] [Server thread/INFO]: [Not Secure] <kito2302> pvp
-[04:16:19] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:55405): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:16:19] [Server thread/INFO]: MXTXN123 (/127.67.181.244:55405) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:16:19] [Server thread/WARN]: handleDisconnection() called twice
-[04:16:23] [Server thread/INFO]: [Not Secure] <Fran_Luxu> pero dame cosas
-[04:16:25] [Server thread/INFO]: Fran_Luxu has completed the challenge [Cover Me in Debris]
-[04:16:46] [Server thread/INFO]: [Not Secure] <Fran_Luxu> 4 manzanas max
-[04:16:51] [Server thread/INFO]: [Not Secure] <Fran_Luxu> y un totem
-[04:17:01] [Server thread/INFO]: [Not Secure] <Fran_Luxu> sin totem
-[04:17:05] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:55393): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:17:05] [Server thread/INFO]: MXTXN123 (/127.67.181.244:55393) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:17:05] [Server thread/WARN]: handleDisconnection() called twice
-[04:17:48] [Server thread/INFO]: [Not Secure] <Fran_Luxu> espera
-[04:17:50] [Server thread/INFO]: [kito2302: Set own game mode to Survival Mode]
-[04:17:52] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to Fran_Luxu]
-[04:18:07] [Server thread/INFO]: [Not Secure] <kito2302> pelea de invalidos
-[04:18:08] [Server thread/INFO]: [Not Secure] <xito_xv1_> 1
-[04:18:09] [Server thread/INFO]: [Not Secure] <xito_xv1_> 2
-[04:18:10] [Server thread/INFO]: [Not Secure] <xito_xv1_> 3
-[04:18:11] [Server thread/INFO]: [Not Secure] <xito_xv1_> ya
-[04:18:29] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:54019): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:18:29] [Server thread/INFO]: MXTXN123 (/127.67.181.244:54019) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:18:29] [Server thread/WARN]: handleDisconnection() called twice
-[04:18:44] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:45275): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:18:44] [Server thread/INFO]: MXTXN123 (/127.67.181.244:45275) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[04:18:44] [Server thread/WARN]: handleDisconnection() called twice
-[04:19:26] [Server thread/INFO]: Fran_Luxu was slain by kito2302
-[04:19:44] [Server thread/INFO]: [Not Secure] <kito2302> el invalido mayor gano
-[04:19:47] [Server thread/INFO]: [xito_xv1_: Unbanned IP 127.67.181.244]
-[04:19:49] [Server thread/INFO]: [Not Secure] <Fran_Luxu> xd
-[04:19:57] [Server thread/INFO]: MXTXN123[/127.67.181.244:49861] logged in with entity id 14926 at (-3693.6769753959898, 47.0, 3417.699999988079)
-[04:19:57] [Server thread/INFO]: MXTXN123 joined the game
-[04:20:08] [Server thread/INFO]: Fran_Luxu was slain by kito2302
-[04:20:23] [Server thread/INFO]: [MXTXN123: Teleported MXTXN123 to kito2302]
-[04:20:37] [Server thread/INFO]: [xito_xv1_: Set own game mode to Survival Mode]
-[04:20:39] [Server thread/INFO]: [Not Secure] <kito2302> por que se murio el server ????
-[04:20:52] [Server thread/INFO]: [Not Secure] <Fran_Luxu> preguntale al vixo
-[04:21:22] [Server thread/INFO]: Fran_Luxu lost connection: Disconnected
-[04:21:22] [Server thread/INFO]: Fran_Luxu left the game
-[04:21:24] [Server thread/INFO]: xito_xv1_ was slain by kito2302
-[04:21:32] [Server thread/INFO]: [Not Secure] <xito_xv1_> ay no me dejan probar mi mazito
-[04:21:36] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to kito2302]
-[04:21:39] [Server thread/INFO]: [xito_xv1_: Set own game mode to Creative Mode]
-[04:21:51] [Server thread/INFO]: [xito_xv1_: Set own game mode to Survival Mode]
-[04:22:10] [Server thread/INFO]: kito2302 was slain by xito_xv1_
-[04:23:24] [Server thread/INFO]: [kito2302: Teleported kito2302 to xito_xv1_]
-[04:23:38] [Server thread/INFO]: [Not Secure] <kito2302> pvp
-[04:23:57] [Server thread/INFO]: [Not Secure] <xito_xv1_> pvp
-[04:24:02] [Server thread/INFO]: [xito_xv1_: Set own game mode to Creative Mode]
-[04:24:09] [Server thread/INFO]: [xito_xv1_: Set own game mode to Survival Mode]
-[04:24:25] [Server thread/INFO]: [Not Secure] <xito_xv1_> 1
-[04:24:27] [Server thread/INFO]: [Not Secure] <xito_xv1_> 2
-[04:24:28] [Server thread/INFO]: [Not Secure] <xito_xv1_> 3
-[04:24:30] [Server thread/INFO]: [Not Secure] <xito_xv1_> ya
-[04:24:54] [Server thread/INFO]: kito2302 was slain by xito_xv1_
-[04:25:15] [Server thread/INFO]: [xito_xv1_: Applied effect Regeneration to 3 targets]
-[04:25:24] [Server thread/INFO]: xito_xv1_ was killed
-[04:25:24] [Server thread/INFO]: [kito2302: Killed xito_xv1_]
-[04:25:27] [Server thread/INFO]: [Not Secure] <kito2302> gane
-[04:25:33] [Server thread/INFO]: [Not Secure] <xito_xv1_> JAKAJJAKSD
-[04:25:36] [Server thread/INFO]: [Not Secure] <xito_xv1_> DIOMIO
-[04:25:47] [Server thread/INFO]: [kito2302: Teleported kito2302 to xito_xv1_]
-[04:25:51] [Server thread/INFO]: [Not Secure] <xito_xv1_> mira kito
-[04:26:00] [Server thread/INFO]: [Not Secure] <xito_xv1_> esta era nuestra base cuando aun no separabamos los equipos xd
-[04:26:05] [Server thread/INFO]: [Not Secure] <xito_xv1_> esta toda rota ahora
-[04:26:30] [Server thread/INFO]: xito_xv1_ was slain by kito2302
-[04:26:40] [Server thread/INFO]: [Not Secure] <xito_xv1_> ah tu teni regenracion xD
-[04:26:46] [Server thread/INFO]: [xito_xv1_: Applied effect Regeneration to 3 targets]
-[04:26:56] [Server thread/INFO]: [Not Secure] <kito2302> pruebas ???
-[04:27:01] [Server thread/INFO]: [Not Secure] <xito_xv1_> las particulas rosadas
-[04:27:03] [Server thread/INFO]: [Not Secure] <xito_xv1_> qsueltas xD
-[04:27:21] [Server thread/INFO]: [Not Secure] <kito2302> pero no se como sacarlas
-[04:28:01] [Server thread/INFO]: xito_xv1_ was killed
-[04:28:01] [Server thread/INFO]: [kito2302: Killed xito_xv1_]
-[04:28:05] [Server thread/INFO]: [xito_xv1_: Applied effect Regeneration to 3 targets]
-[04:28:21] [Server thread/INFO]: [xito_xv1_: Applied effect Speed to 3 targets]
-[04:28:50] [Server thread/INFO]: [xito_xv1_: Applied effect Jump Boost to 3 targets]
-[04:28:51] [Server thread/WARN]: kito2302 moved too quickly! -1.9818826781820462,10.520000457763672,-0.9442377651105858
-[04:28:54] [Server thread/WARN]: kito2302 moved too quickly! 0.0,10.520000457763672,0.0
-[04:28:58] [Server thread/WARN]: kito2302 moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:01] [Server thread/WARN]: kito2302 moved too quickly! -2.0169191239376687,10.520000457763672,0.8728355798772327
-[04:29:02] [Server thread/WARN]: kito2302 moved too quickly! -1.4996045514687921,10.520000457763672,-1.4960197033597353
-[04:29:03] [Server thread/WARN]: kito2302 moved too quickly! -1.4996045514687921,10.520000457763672,-1.437918193215836
-[04:29:03] [Server thread/WARN]: kito2302 moved too quickly! -1.4996045514687921,10.520000457763672,-1.437918193215836
-[04:29:04] [Server thread/WARN]: kito2302 moved too quickly! -1.4996045514687921,10.520000457763672,-1.437918193215836
-[04:29:04] [Server thread/WARN]: kito2302 moved too quickly! -1.4996045514687921,10.520000457763672,-1.437918193215836
-[04:29:05] [Server thread/WARN]: kito2302 moved too quickly! -1.4996045514687921,10.520000457763672,-1.437918193215836
-[04:29:06] [Server thread/WARN]: xito_xv1_ moved too quickly! -0.07948705385501853,20.179377476135286,0.0616100777332349
-[04:29:07] [Server thread/WARN]: kito2302 moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:08] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.0858087034130222,10.520000457763672,1.9250334489530303
-[04:29:08] [Server thread/WARN]: kito2302 moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:09] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.8980388626166587,10.520000457763672,3.3281501289845323
-[04:29:09] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:10] [Server thread/WARN]: xito_xv1_ moved too quickly! -0.8926226250800937,10.520000457763672,4.264751169820016
-[04:29:10] [Server thread/WARN]: kito2302 moved too quickly! 2.0566916489738105,20.179377476135286,-0.8454483479322619
-[04:29:20] [Server thread/WARN]: kito2302 moved too quickly! -2.1286616455529384,10.520000457763672,-0.5743179708504442
-[04:29:20] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.8206992994344091,10.520000457763672,1.0007379007713553
-[04:29:20] [Server thread/WARN]: xito_xv1_ moved too quickly! -2.0568890694687525,10.520000457763672,-0.292626004794613
-[04:29:20] [Server thread/WARN]: kito2302 moved too quickly! -1.8898774922736266,19.06981087343364,-0.31510447983060885
-[04:29:21] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:21] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.9691490217555838,10.520000457763672,0.6624760833200867
-[04:29:22] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.176842246515207,10.520000457763672,1.7121520635913043
-[04:29:23] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:24] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:24] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.2734890992458077,10.520000457763672,-1.6415382199393491
-[04:29:26] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:29:26] [Server thread/WARN]: xito_xv1_ moved too quickly! -0.27644657831774566,10.520000457763672,2.059126018037915
-[04:29:27] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.3516573178440012,10.520000457763672,2.0475892133686386
-[04:29:30] [Server thread/WARN]: kito2302 moved too quickly! -2.9472913260051428,10.520000457763672,1.2768027021522812
-[04:29:32] [Server thread/WARN]: kito2302 moved too quickly! -1.7816927563669651,10.520000457763672,-1.2872722687475004
-[04:29:32] [Server thread/WARN]: kito2302 moved too quickly! -3.1146587356963664,10.520000457763672,-1.8800673976716098
-[04:29:33] [Server thread/WARN]: kito2302 moved too quickly! -1.4658421569363327,10.520000457763672,-1.472321060401157
-[04:29:34] [Server thread/WARN]: kito2302 moved too quickly! -1.4658421569363327,10.520000457763672,-1.472321060401157
-[04:29:43] [Server thread/INFO]: [xito_xv1_: Applied effect Levitation to xito_xv1_]
-[04:30:08] [Server thread/INFO]: [kito2302: Set own game mode to Creative Mode]
-[04:30:20] [Server thread/WARN]: xito_xv1_ moved too quickly! -2.772142370745314,20.66065975475842,2.7296753939760094
-[04:30:21] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.9276064124226195,19.6189903084519,1.0937992161779846
-[04:30:23] [Server thread/WARN]: xito_xv1_ moved too quickly! -2.0332892639353304,10.520000457763672,0.9993565775599507
-[04:30:24] [Server thread/WARN]: xito_xv1_ moved too quickly! -3.1094842743111712,18.531615016640984,1.3994972409035142
-[04:30:29] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.794624730700889,19.06981087343364,-2.145721861341798
-[04:30:31] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.280877621131367,10.520000457763672,-2.80783912481715
-[04:30:32] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.4908884208907693,10.520000457763672,-2.892521302434858
-[04:30:32] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.5345114890258174,19.6189903084519,-1.7403717881852998
-[04:30:34] [Server thread/WARN]: xito_xv1_ moved too quickly! -0.20609718028094903,10.520000457763672,2.2438503928688363
-[04:30:35] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.2835072478349048,10.520000457763672,2.810663545390412
-[04:30:36] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.4733286847426825,10.520000457763672,4.3212938801764835
-[04:30:36] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.7540669968177554,18.531615016640984,2.9340547431991695
-[04:30:39] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.5689597157706885,20.179377476135286,-1.8430603709548734
-[04:30:40] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.0332909340211245,19.06981087343364,-1.7964479399434765
-[04:30:43] [Server thread/WARN]: xito_xv1_ moved too quickly! -3.5991059442656024,18.531615016640984,-0.6504233155054635
-[04:30:47] [Server thread/WARN]: xito_xv1_ moved too quickly! -2.770104894228325,10.520000457763672,-3.4549073088483055
-[04:30:48] [Server thread/WARN]: xito_xv1_ moved too quickly! -3.91772236668362,20.179377476135286,-0.9084383743442572
-[04:30:49] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.9249319039076909,19.06981087343364,0.7500183171675872
-[04:30:51] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.7757517948759869,10.520000457763672,1.410826438063424
-[04:30:52] [Server thread/WARN]: xito_xv1_ moved too quickly! -3.1827855494721007,10.520000457763672,2.1510314181333
-[04:30:52] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.721350994476552,10.520000457763672,1.808947883554481
-[04:30:54] [Server thread/WARN]: xito_xv1_ moved too quickly! 4.125342028483146,20.179377476135286,-0.6871962236040758
-[04:30:56] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:30:57] [Server thread/WARN]: xito_xv1_ moved too quickly! 3.3624073620730996,10.520000457763672,-1.0186148606770473
-[04:32:01] [Server thread/WARN]: xito_xv1_ moved too quickly! -2.747529735366925,10.520000457763672,1.9611058319263464
-[04:32:02] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:32:09] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.2537730973253929,19.6189903084519,1.760808666718134
-[04:32:11] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,1.2255939549126253
-[04:32:11] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.5483609953088262
-[04:32:12] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.5273899120597889
-[04:32:13] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.5273899120597889
-[04:32:13] [Server thread/WARN]: xito_xv1_ moved too quickly! 0.0,10.520000457763672,0.0
-[04:32:16] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.4996045514687921,10.520000457763672,-1.437918193215836
-[04:32:17] [Server thread/WARN]: xito_xv1_ moved too quickly! 1.5938078994847729,10.520000457763672,-1.3327411165461456
-[04:32:18] [Server thread/WARN]: xito_xv1_ moved too quickly! 2.2425060247121564,10.520000457763672,2.79161018903892
-[04:32:19] [Server thread/WARN]: xito_xv1_ moved too quickly! -1.06690372872049,10.520000457763672,1.7826311751771016
-[04:32:28] [Server thread/INFO]: xito_xv1_ fell from a high place
-[04:33:10] [Server thread/INFO]: [Not Secure] <kito2302> competencia de waterdrops
-[04:33:26] [Server thread/WARN]: kito2302 moved too quickly! 0.0,10.520000457763672,0.0
-[04:33:47] [Server thread/INFO]: [Not Secure] <kito2302> saca los efctos porfavor
-[04:33:51] [Server thread/WARN]: kito2302 moved too quickly! 0.0,10.520000457763672,0.0
-[04:33:53] [Server thread/WARN]: kito2302 moved too quickly! 0.0,10.520000457763672,0.0
-[04:33:55] [Server thread/INFO]: [xito_xv1_: Removed every effect from 3 targets]
-[04:35:14] [Server thread/INFO]: [kito2302: Set spawn point to 1355, 143, 152 [0.0] in minecraft:overworld for kito2302]
-[04:35:40] [Server thread/INFO]: [kito2302: Set own game mode to Survival Mode]
-[04:35:42] [Server thread/INFO]: kito2302 was killed
-[04:35:42] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:35:49] [Server thread/INFO]: [Not Secure] <MXTXN123> wasaaaaaaa
-[04:35:56] [Server thread/INFO]: [Not Secure] <kito2302> voooooy
-[04:36:03] [Server thread/INFO]: kito2302 was killed
-[04:36:03] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:36:07] [Server thread/INFO]: kito2302 was killed
-[04:36:07] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:36:09] [Server thread/INFO]: kito2302 was killed
-[04:36:09] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:36:12] [Server thread/INFO]: kito2302 was killed
-[04:36:12] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:36:12] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:36:13] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:36:14] [Server thread/INFO]: kito2302 was killed
-[04:36:14] [Server thread/INFO]: [MXTXN123: Killed kito2302]
-[04:36:21] [Server thread/INFO]: [Not Secure] <kito2302> calmate
-[04:36:28] [Server thread/INFO]: [Not Secure] <MXTXN123> ya no te mato
-[04:36:38] [Server thread/INFO]: [xito_xv1_: Banned IP 127.67.181.244: Banned by an operator.]
-[04:36:38] [Server thread/INFO]: [xito_xv1_: This ban affects 1 player(s): MXTXN123]
-[04:36:38] [Server thread/INFO]: MXTXN123 lost connection: You have been IP banned from this server
-[04:36:38] [Server thread/INFO]: MXTXN123 left the game
-[04:36:38] [Server thread/INFO]: [kito2302: Set own game mode to Creative Mode]
-[04:36:47] [Server thread/INFO]: [xito_xv1_: Unbanned IP 127.67.181.244]
-[04:38:19] [Server thread/INFO]: [kito2302: Set own game mode to Survival Mode]
-[04:38:30] [Server thread/INFO]: [Not Secure] <kito2302> voyyyy xito
-[04:38:38] [Server thread/INFO]: kito2302 fell from a high place
-[04:38:43] [Server thread/INFO]: kito2302 fell from a high place
-[04:39:04] [Server thread/INFO]: kito2302 fell from a high place
-[04:39:34] [Server thread/INFO]: [Not Secure] <kito2302> 7KILl
-[04:39:45] [Server thread/INFO]: kito2302 was killed
-[04:39:45] [Server thread/INFO]: [kito2302: Killed kito2302]
-[04:40:31] [Server thread/INFO]: [Not Secure] <kito2302> hace un hoyo hasta la bedrok porfa
-[04:41:08] [Server thread/INFO]: [kito2302: Set own game mode to Creative Mode]
-[04:42:29] [Server thread/INFO]: kito2302 fell out of the world
+[26Apr2025 20:40:46.557] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[26Apr2025 20:40:46.560] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[26Apr2025 20:40:46.562] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[26Apr2025 20:40:46.656] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[26Apr2025 20:40:46.759] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[26Apr2025 20:40:47.019] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[26Apr2025 20:40:48.004] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[26Apr2025 20:40:48.781] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[26Apr2025 20:40:48.927] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[26Apr2025 20:40:56.204] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[26Apr2025 20:40:56.204] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[26Apr2025 20:40:56.233] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[26Apr2025 20:40:57.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Apr2025 20:40:57.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
+[26Apr2025 20:40:58.590] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[26Apr2025 20:41:01.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[26Apr2025 20:41:01.696] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
+[26Apr2025 20:41:01.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[26Apr2025 20:41:01.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Apr2025 20:41:01.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Apr2025 20:41:01.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Apr2025 20:41:02.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Apr2025 20:41:02.146] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Apr2025 20:41:02.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Apr2025 20:41:02.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Apr2025 20:41:02.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Apr2025 20:41:02.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Apr2025 20:41:02.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Apr2025 20:41:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Apr2025 20:41:07.760] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.765] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.766] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.766] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.767] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.767] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.768] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.768] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.768] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.768] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:07.795] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 20:41:08.294] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[26Apr2025 20:41:08.527] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5736 ms
+[26Apr2025 20:41:08.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.264s)! For help, type "help"
+[26Apr2025 20:41:08.540] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Apr2025 20:42:08.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
