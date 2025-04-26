@@ -112,3 +112,98 @@
 [04:13:38] [Server thread/INFO]: kito2302 was slain by MXTXN123
 [04:13:46] [Server thread/INFO]: kito2302 was killed
 [04:13:46] [Server thread/INFO]: [kito2302: Killed kito2302]
+[04:14:03] [Server thread/INFO]: [xito_xv1_: Banned IP 127.67.181.244: Banned by an operator.]
+[04:14:03] [Server thread/INFO]: [xito_xv1_: This ban affects 1 player(s): MXTXN123]
+[04:14:03] [Server thread/INFO]: MXTXN123 lost connection: You have been IP banned from this server
+[04:14:03] [Server thread/INFO]: MXTXN123 left the game
+[04:14:25] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:59837): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:14:25] [Server thread/INFO]: MXTXN123 (/127.67.181.244:59837) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:14:25] [Server thread/WARN]: handleDisconnection() called twice
+[04:14:33] [Server thread/INFO]: [kito2302: Set own game mode to Creative Mode]
+[04:14:54] [Server thread/INFO]: [kito2302: Teleported kito2302 to Fran_Luxu]
+[04:14:54] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:60965): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:14:54] [Server thread/INFO]: MXTXN123 (/127.67.181.244:60965) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:14:54] [Server thread/WARN]: handleDisconnection() called twice
+[04:15:35] [Server thread/INFO]: [kito2302: Set Fran_Luxu's game mode to Survival Mode]
+[04:15:41] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:38811): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:15:41] [Server thread/INFO]: MXTXN123 (/127.67.181.244:38811) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:15:41] [Server thread/WARN]: handleDisconnection() called twice
+[04:15:51] [Server thread/INFO]: Fran_Luxu tried to swim in lava to escape kito2302
+[04:16:00] [Server thread/INFO]: [kito2302: Teleported kito2302 to Fran_Luxu]
+[04:16:01] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:54059): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:16:01] [Server thread/INFO]: MXTXN123 (/127.67.181.244:54059) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:16:01] [Server thread/WARN]: handleDisconnection() called twice
+[04:16:09] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:38019): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:16:09] [Server thread/INFO]: MXTXN123 (/127.67.181.244:38019) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:16:09] [Server thread/WARN]: handleDisconnection() called twice
+[04:16:10] [Server thread/INFO]: [Not Secure] <kito2302> pvp
+[04:16:19] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:55405): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:16:19] [Server thread/INFO]: MXTXN123 (/127.67.181.244:55405) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:16:19] [Server thread/WARN]: handleDisconnection() called twice
+[04:16:23] [Server thread/INFO]: [Not Secure] <Fran_Luxu> pero dame cosas
+[04:16:25] [Server thread/INFO]: Fran_Luxu has completed the challenge [Cover Me in Debris]
+[04:16:46] [Server thread/INFO]: [Not Secure] <Fran_Luxu> 4 manzanas max
+[04:16:51] [Server thread/INFO]: [Not Secure] <Fran_Luxu> y un totem
+[04:17:01] [Server thread/INFO]: [Not Secure] <Fran_Luxu> sin totem
+[04:17:05] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:55393): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:17:05] [Server thread/INFO]: MXTXN123 (/127.67.181.244:55393) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:17:05] [Server thread/WARN]: handleDisconnection() called twice
+[04:17:48] [Server thread/INFO]: [Not Secure] <Fran_Luxu> espera
+[04:17:50] [Server thread/INFO]: [kito2302: Set own game mode to Survival Mode]
+[04:17:52] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to Fran_Luxu]
+[04:18:07] [Server thread/INFO]: [Not Secure] <kito2302> pelea de invalidos
+[04:18:08] [Server thread/INFO]: [Not Secure] <xito_xv1_> 1
+[04:18:09] [Server thread/INFO]: [Not Secure] <xito_xv1_> 2
+[04:18:10] [Server thread/INFO]: [Not Secure] <xito_xv1_> 3
+[04:18:11] [Server thread/INFO]: [Not Secure] <xito_xv1_> ya
+[04:18:29] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:54019): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:18:29] [Server thread/INFO]: MXTXN123 (/127.67.181.244:54019) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:18:29] [Server thread/WARN]: handleDisconnection() called twice
+[04:18:44] [Server thread/INFO]: Disconnecting MXTXN123 (/127.67.181.244:45275): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:18:44] [Server thread/INFO]: MXTXN123 (/127.67.181.244:45275) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[04:18:44] [Server thread/WARN]: handleDisconnection() called twice
+[04:19:26] [Server thread/INFO]: Fran_Luxu was slain by kito2302
+[04:19:44] [Server thread/INFO]: [Not Secure] <kito2302> el invalido mayor gano
+[04:19:47] [Server thread/INFO]: [xito_xv1_: Unbanned IP 127.67.181.244]
+[04:19:49] [Server thread/INFO]: [Not Secure] <Fran_Luxu> xd
+[04:19:57] [Server thread/INFO]: MXTXN123[/127.67.181.244:49861] logged in with entity id 14926 at (-3693.6769753959898, 47.0, 3417.699999988079)
+[04:19:57] [Server thread/INFO]: MXTXN123 joined the game
+[04:20:08] [Server thread/INFO]: Fran_Luxu was slain by kito2302
+[04:20:23] [Server thread/INFO]: [MXTXN123: Teleported MXTXN123 to kito2302]
+[04:20:37] [Server thread/INFO]: [xito_xv1_: Set own game mode to Survival Mode]
+[04:20:39] [Server thread/INFO]: [Not Secure] <kito2302> por que se murio el server ????
+[04:20:52] [Server thread/INFO]: [Not Secure] <Fran_Luxu> preguntale al vixo
+[04:21:22] [Server thread/INFO]: Fran_Luxu lost connection: Disconnected
+[04:21:22] [Server thread/INFO]: Fran_Luxu left the game
+[04:21:24] [Server thread/INFO]: xito_xv1_ was slain by kito2302
+[04:21:32] [Server thread/INFO]: [Not Secure] <xito_xv1_> ay no me dejan probar mi mazito
+[04:21:36] [Server thread/INFO]: [xito_xv1_: Teleported xito_xv1_ to kito2302]
+[04:21:39] [Server thread/INFO]: [xito_xv1_: Set own game mode to Creative Mode]
+[04:21:51] [Server thread/INFO]: [xito_xv1_: Set own game mode to Survival Mode]
+[04:22:10] [Server thread/INFO]: kito2302 was slain by xito_xv1_
+[04:23:24] [Server thread/INFO]: [kito2302: Teleported kito2302 to xito_xv1_]
+[04:23:38] [Server thread/INFO]: [Not Secure] <kito2302> pvp
+[04:23:57] [Server thread/INFO]: [Not Secure] <xito_xv1_> pvp
+[04:24:02] [Server thread/INFO]: [xito_xv1_: Set own game mode to Creative Mode]
+[04:24:09] [Server thread/INFO]: [xito_xv1_: Set own game mode to Survival Mode]
+[04:24:25] [Server thread/INFO]: [Not Secure] <xito_xv1_> 1
+[04:24:27] [Server thread/INFO]: [Not Secure] <xito_xv1_> 2
+[04:24:28] [Server thread/INFO]: [Not Secure] <xito_xv1_> 3
