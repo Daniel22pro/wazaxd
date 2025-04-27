@@ -813,3 +813,35 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 21:48:13.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Monster Hunter]
 [27Apr2025 21:51:46.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 21:51:46.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 21:55:50.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Diamonds!]
+[27Apr2025 21:56:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> siiiiiiiiiiiiiiiiiiiii
+[27Apr2025 21:56:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> mis primeros diamantitos
+[27Apr2025 21:56:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> pancho prime
+[27Apr2025 21:56:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> tu ya tienes??
+[27Apr2025 21:56:46.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:56:46.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:01:46.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:01:46.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:03:31.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Timed out
+[27Apr2025 22:03:31.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
+[27Apr2025 22:03:40.725] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[27Apr2025 22:03:40.725] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[27Apr2025 22:03:40.725] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[27Apr2025 22:03:40.725] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[27Apr2025 22:03:40.725] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@6b3d312f into net.minecraft.network.Connection@bb8bdcd
+[27Apr2025 22:03:41.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:33273] logged in with entity id 45686 at (1839.5676931439612, 45.0, 1875.5351378629339)
+[27Apr2025 22:03:41.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[27Apr2025 22:05:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Not Today, Thank You]
+[27Apr2025 22:06:46.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:06:46.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:11:46.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:11:46.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:12:43.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fran_Luxu lost connection: Timed out
+[27Apr2025 22:12:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu left the game
+[27Apr2025 22:12:54.819] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[27Apr2025 22:12:54.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[27Apr2025 22:12:54.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[27Apr2025 22:12:54.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[27Apr2025 22:12:54.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4d8281c1 into net.minecraft.network.Connection@55a86582
+[27Apr2025 22:12:56.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.232.13.146:60587] logged in with entity id 48107 at (590.5484484081994, -53.46415937495544, -967.3000000119209)
+[27Apr2025 22:12:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
