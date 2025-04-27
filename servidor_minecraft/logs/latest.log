@@ -52,3 +52,7 @@
 [27Apr2025 18:56:26.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yatorin lost connection: Disconnected
 [27Apr2025 18:56:26.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yatorin left the game
 [27Apr2025 18:57:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[27Apr2025 19:26:43.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:32783] logged in with entity id 6621 at (18.5, 63.0, -53.5)
+[27Apr2025 19:26:43.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[27Apr2025 19:29:47.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Stone Age]
+[27Apr2025 19:30:40.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Getting an Upgrade]
