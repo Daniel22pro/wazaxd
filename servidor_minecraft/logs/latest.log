@@ -75,3 +75,4 @@
 [27Apr2025 20:09:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Ice Bucket Challenge]
 [27Apr2025 20:27:00.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Take Aim]
 [27Apr2025 20:36:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Sweet Dreams]
+[27Apr2025 21:30:38.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29624, l='ServerLevel[world]', x=1811.80, y=89.50, z=1917.48] died, message: 'Villager was slain by Zombie'
