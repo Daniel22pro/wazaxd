@@ -845,3 +845,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 22:12:54.820] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4d8281c1 into net.minecraft.network.Connection@55a86582
 [27Apr2025 22:12:56.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.232.13.146:60587] logged in with entity id 48107 at (590.5484484081994, -53.46415937495544, -967.3000000119209)
 [27Apr2025 22:12:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
+[27Apr2025 22:14:46.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Cover Me with Diamonds]
+[27Apr2025 22:14:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> CHAAAAAA
+[27Apr2025 22:15:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> tranquilo, no es full diamante
+[27Apr2025 22:15:10.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> no me da
+[27Apr2025 22:15:12.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> EL LOKO LOK
+[27Apr2025 22:15:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> me dio pa la pura pechera y botas
+[27Apr2025 22:16:46.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:16:46.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:17:45.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> HERMANOOOOOOOOOO
+[27Apr2025 22:17:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> LO QUE ACABO DE ENCONTRAAAAAAAAR
+[27Apr2025 22:17:59.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> Q COSA HMNO
+[27Apr2025 22:18:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> QUE WEAAAAAAAAAAAAA
+[27Apr2025 22:18:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> ???
+[27Apr2025 22:18:07.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> una wea de cobre gigante
+[27Apr2025 22:18:15.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> que es estooooooooo
+[27Apr2025 22:20:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Minecraft: Trial(s) Edition]
+[27Apr2025 22:21:46.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:21:46.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
