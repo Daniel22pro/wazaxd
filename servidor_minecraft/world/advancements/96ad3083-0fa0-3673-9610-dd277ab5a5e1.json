@@ -401,6 +401,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-27 19:42:11 +0000",
+      "minecraft:enderman": "2025-05-01 01:18:23 +0000",
       "minecraft:witch": "2025-05-01 01:10:40 +0000",
       "minecraft:spider": "2025-04-27 20:27:02 +0000",
       "minecraft:zombie": "2025-04-27 19:33:44 +0000",
@@ -1829,9 +1830,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-01 01:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-01 01:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-01 01:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-01 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-01 01:18:45 +0000"
     },
     "done": true
   },
