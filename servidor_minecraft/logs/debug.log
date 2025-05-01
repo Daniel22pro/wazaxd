@@ -733,3 +733,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01May2025 01:22:44.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 01:22:44.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 01:27:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> no puedo mimir we
+[01May2025 01:27:44.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:27:44.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 01:27:56.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> durmiendo
+[01May2025 01:28:30.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> weyyyy
+[01May2025 01:28:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> q paso
+[01May2025 01:30:17.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Hot Stuff]
+[01May2025 01:32:44.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:32:44.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 01:36:41.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [A Seedy Place]
+[01May2025 01:37:21.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fran_Luxu lost connection: Timed out
+[01May2025 01:37:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu left the game
+[01May2025 01:37:21.434] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 01:37:44.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:37:44.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 01:42:44.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:42:44.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 01:45:47.787] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:45:47.787] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:45:47.787] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:45:47.787] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[01May2025 01:45:47.787] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3babb317 into net.minecraft.network.Connection@63dda600
+[01May2025 01:45:55.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.109.90.45:50393] logged in with entity id 18980 at (678.3035607239244, -53.0, -865.8030700467323)
+[01May2025 01:45:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game

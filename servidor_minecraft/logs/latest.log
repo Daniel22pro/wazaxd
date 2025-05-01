@@ -66,3 +66,13 @@
 [01May2025 01:17:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> Q TAL TODO ????
 [01May2025 01:18:07.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> TODO MARAVILLOSO Y TU
 [01May2025 01:27:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> no puedo mimir we
+[01May2025 01:27:56.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> durmiendo
+[01May2025 01:28:30.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> weyyyy
+[01May2025 01:28:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> q paso
+[01May2025 01:30:17.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Hot Stuff]
+[01May2025 01:36:41.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [A Seedy Place]
+[01May2025 01:37:21.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fran_Luxu lost connection: Timed out
+[01May2025 01:37:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu left the game
+[01May2025 01:37:21.434] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 01:45:55.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.109.90.45:50393] logged in with entity id 18980 at (678.3035607239244, -53.0, -865.8030700467323)
+[01May2025 01:45:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
