@@ -693,3 +693,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01May2025 01:02:44.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 01:02:44.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 01:04:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> WA
+[01May2025 01:07:27.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Disconnected
+[01May2025 01:07:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
+[01May2025 01:07:28.127] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:28.127] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:28.127] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:28.127] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[01May2025 01:07:28.128] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@746e1962 into net.minecraft.network.Connection@572773b8
+[01May2025 01:07:34.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.109.90.45:34433] logged in with entity id 7242 at (729.2794134166783, -36.0, -881.5136907851768)
+[01May2025 01:07:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
+[01May2025 01:07:41.772] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:41.772] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:41.772] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:41.772] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[01May2025 01:07:41.773] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@78640cf8 into net.minecraft.network.Connection@3735f4c6
+[01May2025 01:07:44.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:41377] logged in with entity id 7458 at (1851.300000011921, 85.0, 1901.749388881911)
+[01May2025 01:07:44.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[01May2025 01:07:44.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:07:44.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 01:07:46.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Disconnected
+[01May2025 01:07:46.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
+[01May2025 01:07:49.380] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:49.380] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:49.380] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[01May2025 01:07:49.380] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[01May2025 01:07:49.381] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4beca604 into net.minecraft.network.Connection@7cef5fd0
+[01May2025 01:07:50.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:44443] logged in with entity id 7706 at (1851.300000011921, 85.0, 1901.749388881911)
+[01May2025 01:07:50.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[01May2025 01:08:03.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7723, l='ServerLevel[world]', x=1852.71, y=85.13, z=1902.51] died, message: 'Villager was slain by Zombie'
+[01May2025 01:09:04.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> alo
+[01May2025 01:12:44.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:12:44.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

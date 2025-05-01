@@ -49,3 +49,15 @@
 [01May2025 00:22:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
 [01May2025 00:38:22.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/124, l='ServerLevel[world]', x=1828.79, y=90.00, z=1917.45] died, message: 'Leatherworker was slain by Zombie'
 [01May2025 01:04:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> WA
+[01May2025 01:07:27.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Disconnected
+[01May2025 01:07:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
+[01May2025 01:07:34.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.109.90.45:34433] logged in with entity id 7242 at (729.2794134166783, -36.0, -881.5136907851768)
+[01May2025 01:07:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
+[01May2025 01:07:44.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:41377] logged in with entity id 7458 at (1851.300000011921, 85.0, 1901.749388881911)
+[01May2025 01:07:44.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[01May2025 01:07:46.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Disconnected
+[01May2025 01:07:46.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
+[01May2025 01:07:50.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:44443] logged in with entity id 7706 at (1851.300000011921, 85.0, 1901.749388881911)
+[01May2025 01:07:50.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[01May2025 01:08:03.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7723, l='ServerLevel[world]', x=1852.71, y=85.13, z=1902.51] died, message: 'Villager was slain by Zombie'
+[01May2025 01:09:04.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> alo
