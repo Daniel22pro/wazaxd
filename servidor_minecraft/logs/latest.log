@@ -78,3 +78,5 @@
 [01May2025 01:45:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
 [01May2025 01:49:10.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fran_Luxu lost connection: Timed out
 [01May2025 01:49:10.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu left the game
+[01May2025 02:36:29.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1851, y=46, z=1872} BlockPos{x=1851, y=45, z=1869}
+[01May2025 02:36:29.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1851, y=46, z=1872} BlockPos{x=1851, y=45, z=1869}
