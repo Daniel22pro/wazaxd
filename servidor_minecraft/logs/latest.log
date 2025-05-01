@@ -1,123 +1,49 @@
-[27Apr2025 18:12:33.644] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[27Apr2025 18:12:33.648] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
-[27Apr2025 18:12:33.649] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[27Apr2025 18:12:33.764] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[27Apr2025 18:12:33.900] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[27Apr2025 18:12:34.215] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[27Apr2025 18:12:35.096] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[27Apr2025 18:12:35.475] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[27Apr2025 18:12:35.607] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[27Apr2025 18:12:42.144] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
-[27Apr2025 18:12:42.144] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
-[27Apr2025 18:12:42.161] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[27Apr2025 18:12:42.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Apr2025 18:12:43.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
-[27Apr2025 18:12:43.945] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[27Apr2025 18:12:46.550] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
-[27Apr2025 18:12:46.575] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
-[27Apr2025 18:12:46.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
-[27Apr2025 18:12:46.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Apr2025 18:12:46.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Apr2025 18:12:46.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Apr2025 18:12:46.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Apr2025 18:12:46.904] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27Apr2025 18:12:46.974] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[27Apr2025 18:12:46.975] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[27Apr2025 18:12:46.975] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[27Apr2025 18:12:46.975] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[27Apr2025 18:12:47.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Apr2025 18:12:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Apr2025 18:12:51.898] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.902] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.902] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.902] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.902] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:51.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Apr2025 18:12:52.012] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
-[27Apr2025 18:12:52.062] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4550 ms
-[27Apr2025 18:12:52.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.074s)! For help, type "help"
-[27Apr2025 18:12:52.078] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27Apr2025 18:13:52.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[27Apr2025 18:29:25.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yatorin[/127.202.184.70:60515] logged in with entity id 4 at (24.5, 63.0, -44.5)
-[27Apr2025 18:29:25.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yatorin joined the game
-[27Apr2025 18:31:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yatorin has made the advancement [Stone Age]
-[27Apr2025 18:35:27.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yatorin has made the advancement [Getting an Upgrade]
-[27Apr2025 18:38:59.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=71, z=762} BlockPos{x=5, y=70, z=762}
-[27Apr2025 18:38:59.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=71, z=762} BlockPos{x=5, y=70, z=762}
-[27Apr2025 18:38:59.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=71, z=762} BlockPos{x=5, y=70, z=762}
-[27Apr2025 18:39:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yatorin has made the advancement [The Parrots and the Bats]
-[27Apr2025 18:56:26.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yatorin lost connection: Disconnected
-[27Apr2025 18:56:26.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yatorin left the game
-[27Apr2025 18:57:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[27Apr2025 19:26:43.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:32783] logged in with entity id 6621 at (18.5, 63.0, -53.5)
-[27Apr2025 19:26:43.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
-[27Apr2025 19:29:47.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Stone Age]
-[27Apr2025 19:30:40.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Getting an Upgrade]
-[27Apr2025 19:33:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Monster Hunter]
-[27Apr2025 19:33:58.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Timed out
-[27Apr2025 19:33:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
-[27Apr2025 19:33:58.607] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[27Apr2025 19:34:06.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:51605] logged in with entity id 8433 at (408.3939433744824, 35.0, -29.69999998807907)
-[27Apr2025 19:34:06.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
-[27Apr2025 19:36:25.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Acquire Hardware]
-[27Apr2025 19:36:40.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Isn't It Iron Pick]
-[27Apr2025 19:38:45.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Suit Up]
-[27Apr2025 19:39:46.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Disconnected
-[27Apr2025 19:39:46.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
-[27Apr2025 19:39:52.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:39589] logged in with entity id 9297 at (395.9884669984179, 31.123168530961912, -26.345981793256797)
-[27Apr2025 19:39:52.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
-[27Apr2025 19:42:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Not Today, Thank You]
-[27Apr2025 19:45:10.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Diamonds!]
-[27Apr2025 19:50:30.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Hot Stuff]
-[27Apr2025 20:09:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Ice Bucket Challenge]
-[27Apr2025 20:27:00.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Take Aim]
-[27Apr2025 20:36:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Sweet Dreams]
-[27Apr2025 21:30:38.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29624, l='ServerLevel[world]', x=1811.80, y=89.50, z=1917.48] died, message: 'Villager was slain by Zombie'
-[27Apr2025 21:37:25.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.232.13.146:34953] logged in with entity id 35539 at (750.3000000119209, 31.0, -373.6476695582344)
-[27Apr2025 21:37:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
-[27Apr2025 21:37:37.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> pene?
-[27Apr2025 21:37:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> hola
-[27Apr2025 21:37:54.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> jsjsjsj
-[27Apr2025 21:37:55.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> buenas crack
-[27Apr2025 21:42:52.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Ice Bucket Challenge]
-[27Apr2025 21:43:42.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [We Need to Go Deeper]
-[27Apr2025 21:43:44.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
-[27Apr2025 21:43:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> opaaa
-[27Apr2025 21:43:58.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> increible
-[27Apr2025 21:44:10.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> encontre un portal en ruinas y lo prendi
-[27Apr2025 21:44:17.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> xdddddd
-[27Apr2025 21:44:22.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> esa cerca del lobby
-[27Apr2025 21:44:28.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> osea lo veran todos
-[27Apr2025 21:44:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> jjaajjsjsjs
-[27Apr2025 21:48:13.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Monster Hunter]
-[27Apr2025 21:55:50.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Diamonds!]
-[27Apr2025 21:56:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> siiiiiiiiiiiiiiiiiiiii
-[27Apr2025 21:56:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> mis primeros diamantitos
-[27Apr2025 21:56:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> pancho prime
-[27Apr2025 21:56:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> tu ya tienes??
-[27Apr2025 22:03:31.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kito2302 lost connection: Timed out
-[27Apr2025 22:03:31.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 left the game
-[27Apr2025 22:03:41.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:33273] logged in with entity id 45686 at (1839.5676931439612, 45.0, 1875.5351378629339)
-[27Apr2025 22:03:41.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
-[27Apr2025 22:05:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Not Today, Thank You]
-[27Apr2025 22:12:43.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fran_Luxu lost connection: Timed out
-[27Apr2025 22:12:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu left the game
-[27Apr2025 22:12:56.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.232.13.146:60587] logged in with entity id 48107 at (590.5484484081994, -53.46415937495544, -967.3000000119209)
-[27Apr2025 22:12:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
-[27Apr2025 22:14:46.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Cover Me with Diamonds]
-[27Apr2025 22:14:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> CHAAAAAA
-[27Apr2025 22:15:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> tranquilo, no es full diamante
-[27Apr2025 22:15:10.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> no me da
-[27Apr2025 22:15:12.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> EL LOKO LOK
-[27Apr2025 22:15:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> me dio pa la pura pechera y botas
-[27Apr2025 22:17:45.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> HERMANOOOOOOOOOO
-[27Apr2025 22:17:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> LO QUE ACABO DE ENCONTRAAAAAAAAR
-[27Apr2025 22:17:59.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> Q COSA HMNO
-[27Apr2025 22:18:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> QUE WEAAAAAAAAAAAAA
-[27Apr2025 22:18:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kito2302> ???
-[27Apr2025 22:18:07.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> una wea de cobre gigante
-[27Apr2025 22:18:15.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fran_Luxu> que es estooooooooo
-[27Apr2025 22:20:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu has made the advancement [Minecraft: Trial(s) Edition]
+[01May2025 00:16:48.340] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[01May2025 00:16:48.344] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1
+[01May2025 00:16:48.345] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[01May2025 00:16:48.454] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[01May2025 00:16:48.943] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[01May2025 00:16:49.229] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[01May2025 00:16:50.211] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[01May2025 00:16:51.109] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[01May2025 00:16:51.250] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/wazaxd/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[01May2025 00:16:58.153] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 53.0.25, for MC 1.21.3 with MCP 20241025.112443
+[01May2025 00:16:58.154] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v53.0.25 Initialized
+[01May2025 00:16:58.171] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[01May2025 00:16:59.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01May2025 00:16:59.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 53.0.25 Target: 53.1.0
+[01May2025 00:17:00.387] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01May2025 00:17:03.251] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1337 recipes
+[01May2025 00:17:03.272] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1448 advancements
+[01May2025 00:17:03.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.3
+[01May2025 00:17:03.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01May2025 00:17:03.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01May2025 00:17:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01May2025 00:17:03.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01May2025 00:17:03.644] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01May2025 00:17:03.711] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01May2025 00:17:03.711] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01May2025 00:17:03.711] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01May2025 00:17:03.712] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01May2025 00:17:03.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01May2025 00:17:04.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01May2025 00:17:10.404] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.407] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.409] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.412] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.414] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.414] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.415] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 00:17:10.704] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[01May2025 00:17:11.047] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6845 ms
+[01May2025 00:17:11.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.305s)! For help, type "help"
+[01May2025 00:17:11.065] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01May2025 00:18:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[01May2025 00:22:44.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:49381] logged in with entity id 4 at (1853.129052335702, 45.43152384527073, 1872.0154293544572)
+[01May2025 00:22:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
