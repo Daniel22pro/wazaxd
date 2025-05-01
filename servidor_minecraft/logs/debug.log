@@ -673,3 +673,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01May2025 22:16:06.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 22:16:06.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 22:20:52.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [What a Deal!]
+[01May2025 22:21:06.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 22:21:06.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 22:26:06.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 22:26:06.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 22:29:03.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [We Need to Go Deeper]
+[01May2025 22:29:06.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5260ms or 105 ticks behind
+[01May2025 22:30:13.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [A Terrible Fortress]
+[01May2025 22:30:50.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Into Fire]
