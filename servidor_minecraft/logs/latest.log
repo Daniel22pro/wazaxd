@@ -38,3 +38,4 @@
 [01May2025 22:01:06.850] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [01May2025 22:01:57.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:55537] logged in with entity id 4 at (1861.4333885292656, 46.0, 1874.850581390276)
 [01May2025 22:01:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[01May2025 22:20:52.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [What a Deal!]
