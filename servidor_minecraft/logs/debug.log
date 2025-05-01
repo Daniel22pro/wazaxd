@@ -756,3 +756,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01May2025 01:45:47.787] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3babb317 into net.minecraft.network.Connection@63dda600
 [01May2025 01:45:55.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fran_Luxu[/127.109.90.45:50393] logged in with entity id 18980 at (678.3035607239244, -53.0, -865.8030700467323)
 [01May2025 01:45:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu joined the game
+[01May2025 01:47:44.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:47:44.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 01:49:10.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fran_Luxu lost connection: Timed out
+[01May2025 01:49:10.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fran_Luxu left the game
+[01May2025 01:52:44.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 01:52:44.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
