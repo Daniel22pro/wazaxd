@@ -44,3 +44,6 @@
 [01May2025 22:50:55.321] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [01May2025 22:50:58.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kito2302[/127.123.36.224:49101] logged in with entity id 4 at (253.9547692118367, 66.25220334025373, 181.39993537134043)
 [01May2025 22:50:58.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 joined the game
+[01May2025 23:04:19.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 has made the advancement [Spooky Scary Skeleton]
+[01May2025 23:07:16.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 was slain by Wither Skeleton
+[01May2025 23:09:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kito2302 was slain by Wither Skeleton
